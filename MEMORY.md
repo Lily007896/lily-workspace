@@ -18,3 +18,4 @@ This file is the curated long-term memory. Keep it short and high-signal.
 - Brainstorm: keep the **08:00 Telegram signal report** in the canonical “Top 10 signals (1–10)” template (see `memory/topics/brainstorm.md`).
 - Browser: when a real browser is needed, prefer **agent-browser** (project-local in workspace) over the built-in OpenClaw `browser` tool.
 - Skill creation preference: when Allen asks to create/update skills, use Anthropic’s **skill-creator** method/reference first.
+- Search policy preference: auto-mode search routing (quick lookups via Brave, research/compare/deep-dive via Exa); always honor explicit “use Exa” requests.
