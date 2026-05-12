@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-12T13:43:44.965Z",
+  "entries": {
+    "memory:memory/2026-02-28.md:2:5": {
+      "key": "memory:memory/2026-02-28.md:2:5",
+      "path": "memory/2026-02-28.md",
+      "startLine": 2,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "@@ -2,4 @@ (1 before, 4 after) - Preference: Allen wants Lily to always reply in **English** (even when source content is Chinese). - Preference: Only commit/push to GitHub for backups via cron jobs. Do not commit/push unless Allen explicitly requests it.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.76,
+      "maxScore": 0.76,
+      "firstRecalledAt": "2026-05-12T13:43:44.965Z",
+      "lastRecalledAt": "2026-05-12T13:43:44.965Z",
+      "queryHashes": [
+        "a4aed34f4966"
+      ],
+      "recallDays": [
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "backup",
+        "backups",
+        "commit/push",
+        "2,4",
+        "preference",
+        "allen",
+        "wants",
+        "lily"
+      ]
+    },
+    "memory:memory/2026-02-27.md:2:5": {
+      "key": "memory:memory/2026-02-27.md:2:5",
+      "path": "memory/2026-02-27.md",
+      "startLine": 2,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "@@ -2,4 @@ (1 before, 1 after) - Setup: user wants assistant named **Lily**; user name **Allen**. - Preference: Lily should be **concise and proactive**. - Proactive monitoring: Allen said **nothing yet**.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.76,
+      "maxScore": 0.76,
+      "firstRecalledAt": "2026-05-12T13:43:44.965Z",
+      "lastRecalledAt": "2026-05-12T13:43:44.965Z",
+      "queryHashes": [
+        "a4aed34f4966"
+      ],
+      "recallDays": [
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "2,4",
+        "setup",
+        "wants",
+        "named",
+        "lily",
+        "name",
+        "allen",
+        "preference"
+      ]
+    },
+    "memory:memory/2026-03-01.md:3:6": {
+      "key": "memory:memory/2026-03-01.md:3:6",
+      "path": "memory/2026-03-01.md",
+      "startLine": 3,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "@@ -3,4 @@ (2 before, 6 after) - TTS: English Edge TTS works reliably; Cantonese TTS often errors. Default to English TTS for now. - Preference: Allen may ask Lily to read responses aloud in English (TTS) because he doesn’t want to read text. - Brain dump: Allen is a web developer (~3 years) with Next.js/Node.js/PHP/Drupal ex...",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.76,
+      "maxScore": 0.76,
+      "firstRecalledAt": "2026-05-12T13:43:44.965Z",
+      "lastRecalledAt": "2026-05-12T13:43:44.965Z",
+      "queryHashes": [
+        "a4aed34f4966"
+      ],
+      "recallDays": [
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "next.js/node.js/php/drupal",
+        "3,4",
+        "tts",
+        "english",
+        "edge",
+        "works",
+        "reliably",
+        "cantonese"
+      ]
+    },
+    "memory:memory/2026-03-09.md:2:5": {
+      "key": "memory:memory/2026-03-09.md:2:5",
+      "path": "memory/2026-03-09.md",
+      "startLine": 2,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "@@ -2,4 @@ (1 before, 0 after) - Allen asked me to remember the OpenClaw docs entrypoint link for setup questions: https://docs.openclaw.ai/start/getting-started - Preference: when Allen asks about OpenClaw settings/configuration, check this documentation link first.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.76,
+      "maxScore": 0.76,
+      "firstRecalledAt": "2026-05-12T13:43:44.965Z",
+      "lastRecalledAt": "2026-05-12T13:43:44.965Z",
+      "queryHashes": [
+        "a4aed34f4966"
+      ],
+      "recallDays": [
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "settings/configuration",
+        "2,4",
+        "allen",
+        "asked",
+        "remember",
+        "openclaw",
+        "docs",
+        "entrypoint"
+      ]
+    }
+  }
+}
