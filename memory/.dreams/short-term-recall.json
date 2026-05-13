@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T13:43:44.965Z",
+  "updatedAt": "2026-05-13T11:29:37.141Z",
   "entries": {
     "memory:memory/2026-02-28.md:2:5": {
       "key": "memory:memory/2026-02-28.md:2:5",
@@ -124,6 +124,37 @@
         "openclaw",
         "docs",
         "entrypoint"
+      ]
+    },
+    "memory:memory/2026-03-03.md:8:11": {
+      "key": "memory:memory/2026-03-03.md:8:11",
+      "path": "memory/2026-03-03.md",
+      "startLine": 8,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "@@ -8,4 @@ (7 before, 5 after) - Fix: Ran `qmd update` then `qmd embed` to embed pending documents; verified QMD search returns expected notes. Added hourly cron `qmd-hourly-embed` to run `qmd update && qmd embed` via `scripts/qmd-maintain.sh`. - Note: When memory_search returns empty unexpectedly, check `qmd status` for \"Pend...",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9,
+      "maxScore": 0.9,
+      "firstRecalledAt": "2026-05-13T11:29:37.141Z",
+      "lastRecalledAt": "2026-05-13T11:29:37.141Z",
+      "queryHashes": [
+        "592b3c982c60"
+      ],
+      "recallDays": [
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "qmd",
+        "qmd-hourly-embed",
+        "scripts/qmd-maintain.sh",
+        "memory-search",
+        "8,4",
+        "fix",
+        "ran",
+        "update"
       ]
     }
   }
