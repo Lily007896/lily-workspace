@@ -49,6 +49,6 @@ backup_repo() {
 
 # Backup Lily + Moss + Iris (workspace repos only)
 LILY_DIR="${OPENCLAW_WORKSPACE_DIR:-$HOME/.openclaw/workspace}"
-backup_repo "$LILY_DIR" "workspace"
-backup_repo "$HOME/.openclaw/workspace-work" "moss-memory"
-backup_repo "$HOME/.openclaw/workspace-iris" "iris-memory"
+backup_repo "$LILY_DIR" "lily-workspace"
+backup_repo "$HOME/.openclaw/workspace-work" "moss-workspace"
+backup_repo "$HOME/.openclaw/workspace-iris" "iris-workspace"

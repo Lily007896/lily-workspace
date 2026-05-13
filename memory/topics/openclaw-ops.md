@@ -12,6 +12,15 @@ Technical notes about running/operating OpenClaw on this machine.
 - Prefer two-stage pipelines: collect data → save files → generate report from files.
 - Avoid relying on `python`; use `python3` explicitly.
 
+## Agent workspace GitHub backups
+- Daily cron: `backup-agent-workspaces-github` at 23:00 Europe/London.
+- Script: `~/.openclaw/workspace/scripts/backup-workspaces.sh`.
+- Standard repo naming: `<agent-name>-workspace`.
+- Current workspace repos:
+  - Lily → `Lily007896/lily-workspace` (`~/.openclaw/workspace`)
+  - Moss → `Lily007896/moss-workspace` (`~/.openclaw/workspace-work`)
+  - Iris → `Lily007896/iris-workspace` (`~/.openclaw/workspace-iris`)
+
 ## Signal pipeline incident (2026-03-03)
 - Root cause: 06:00 collector attempted to use OpenClaw write tool to `/mnt/c/...` and failed.
 - Fix: move collector + reporter into scripts under `~/.openclaw/workspace/scripts/`.

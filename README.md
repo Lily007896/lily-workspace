@@ -1,1 +1,1 @@
-# openclaw-workspace
+# lily-workspace
