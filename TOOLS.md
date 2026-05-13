@@ -38,3 +38,14 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+## Obsidian
+
+- Shared default vault:
+  - WSL path: `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault`
+  - Windows path: `C:\Users\allen\Documents\Obsidian\Lily's vault`
+- Agent folders:
+  - Lily: `Lily/`
+  - Moss: `Moss/`
+  - Iris: `Iris/`
+- Lily should create/open Obsidian notes in `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/Lily` by default unless Allen explicitly names another location.

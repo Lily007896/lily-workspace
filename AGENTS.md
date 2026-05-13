@@ -45,6 +45,19 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
 
+## Obsidian Vault Rules
+
+All agents share Allen's default Obsidian vault, but each agent must keep its own notes in its own folder.
+
+- Shared vault path from WSL: `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault`
+- Shared vault path from Windows: `C:\Users\allen\Documents\Obsidian\Lily's vault`
+- Agent folders:
+  - Lily: `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/Lily`
+  - Moss: `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/Moss`
+  - Iris: `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/Iris`
+
+When Allen asks an agent to create, edit, or open Obsidian notes, that agent should use its own folder by default unless Allen explicitly names another vault folder.
+
 ## Safety
 
 - Don't exfiltrate private data. Ever.
