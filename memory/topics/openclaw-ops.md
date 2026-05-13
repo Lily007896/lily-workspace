@@ -16,10 +16,10 @@ Technical notes about running/operating OpenClaw on this machine.
 - Daily cron: `backup-agent-workspaces-github` at 23:00 Europe/London.
 - Script: `~/.openclaw/workspace/scripts/backup-workspaces.sh`.
 - Standard repo naming: `<agent-name>-workspace`.
-- Current workspace repos:
-  - Lily → `Lily007896/lily-workspace` (`~/.openclaw/workspace`)
-  - Moss → `Lily007896/moss-workspace` (`~/.openclaw/workspace-work`)
-  - Iris → `Lily007896/iris-workspace` (`~/.openclaw/workspace-iris`)
+- Current workspace repos and QMD collection names:
+  - Lily → `Lily007896/lily-workspace` (`~/.openclaw/workspace`, QMD `lily-workspace`)
+  - Moss → `Lily007896/moss-workspace` (`~/.openclaw/workspace-work`, QMD `moss-workspace`)
+  - Iris → `Lily007896/iris-workspace` (`~/.openclaw/workspace-iris`, QMD `iris-workspace`)
 
 ## Signal pipeline incident (2026-03-03)
 - Root cause: 06:00 collector attempted to use OpenClaw write tool to `/mnt/c/...` and failed.
