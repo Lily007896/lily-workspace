@@ -20,3 +20,4 @@ This file is the curated long-term memory. Keep it short and high-signal.
 - Skill creation preference: when Allen asks to create/update skills, use Anthropic’s **skill-creator** method/reference first.
 - Search policy preference (all agents): Exa first by default; prefer original/primary sources; avoid low-quality SEO pages; use stronger evidence standards for health topics; use transcript-first for YouTube; always honor explicit source/tool requests.
 - Obsidian: all agents use the shared default vault `C:\Users\allen\Documents\Obsidian\Lily's vault` (`/mnt/c/Users/allen/Documents/Obsidian/Lily's vault`), but each agent creates/opens its own notes in its own folder by default: `Lily/`, `Moss/`, `Iris/`.
+- Valuable AI answers: when Allen wants to save/revisit an answer, save the full polished note in Obsidian and keep only a short pointer/index in memory. Use Lily notes by default, e.g. `Lily/Learning/`.

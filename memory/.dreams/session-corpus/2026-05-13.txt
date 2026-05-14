@@ -1,0 +1,30 @@
+[main/sessions/main/4ccf6b4e-11bb-40e3-8887-e8118e20c0b3.jsonl#L16] Assistant: Vault backup succeeded and pushed to origin/main.
+[main/sessions/main/51753a36-8641-4af5-8e98-5867c4d9ae1f.jsonl#L15] Assistant: Running the refresh, then I’ll verify the index counts.
+[main/sessions/main/51753a36-8641-4af5-8e98-5867c4d9ae1f.jsonl#L19] Assistant: Collections updated: OK (3/3, refresh exited 0) Documents indexed: 214 Vectors embedded: 410 Timestamp: 2026-05-13 12:20:48 BST
+[main/sessions/main/90509e61-22b0-40bc-bb76-cea4c5e7180d.jsonl#L12] Assistant: lily-workspace: success; moss-workspace: success; iris-workspace: success.
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L5] User: how to use tts
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L13] Assistant: Two ways: 1. **Ask normally** - “Read this aloud” - “Reply with TTS” - “Send this as voice” 2. **Use TTS tags in your message** - `[[tts:text]]Hello Allen[[/tts:text]]` - or inline controls like `[[tts:key=value]]` if you want voice settings A simple example: ```te
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L14] User: what do I need to know before I paint my summer house reply as voice
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L18] Assistant: [[reply_to_current]] [[audio_as_voice]]
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L19] User: what setting can I set about the tts, reply as text
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L21] Assistant: Main things you can control: - **Whether to use TTS at all** - Ask: “reply as voice” / “read this aloud” - **Spoken text** - Use: ```text [[tts:text]] Your spoken text here [[/tts:text]] ``` - **TTS options via directive** - Use: ```text [[tts:key=value]] ``` - Exa
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L22] User: can I change the voice
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L24] Assistant: Yes, probably — but it depends on which TTS provider/config is active. In practice, you have 2 levels: - **Per reply**: ask me for a different voice/style if the backend supports it - **Default voice**: change the TTS config so future voice replies use that voice E
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L25] User: go ahead
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L29] Assistant: I’m checking the local OpenClaw config to see what TTS backend and voice options are actually enabled.
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L53] Assistant: Yep — I checked your local setup. **Current TTS config** - **Provider:** `microsoft` - **Default voice:** `en-US-MichelleNeural` - **Language:** `en-US` - **Mode:** `tagged` — so TTS only triggers when explicitly requested/tagged - **Format:** MP3 From your config,
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L53] Assistant: ```json "voice": "en-US-AriaNeural" ``` or a UK-style option like: ```json "voice": "en-GB-SoniaNeural" ``` **Per-reply overrides** Likely also possible with tags like: ```text [[tts:voice=en-US-AriaNeural]] [[tts:text]]Hello[[/tts:text]] ``` since your setup doesn
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L54] User: I need uk voice
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L56] Assistant: I found your default TTS setting — I’m switching it to a UK English voice now.
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L62] Assistant: Done — I changed your default TTS to a UK voice: - **Voice:** `en-GB-SoniaNeural` - **Language:** `en-GB` If you send a voice-triggered reply now, it should use the UK voice. If you want, I can also switch to a **male UK voice** instead.
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L63] User: send a test for me
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L67] Assistant: [[reply_to_current]] [[audio_as_voice]]
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L68] User: do you have another gb female voice
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L74] Assistant: Yes — likely these UK female Microsoft voices are available: - `en-GB-SoniaNeural` — your current one - `en-GB-LibbyNeural` - `en-GB-MaisieNeural` There used to be `en-GB-MiaNeural`, but Microsoft retired it. If you want, I can switch you to: 1. **Libby** 2. **Mais
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L75] User: ok send me a test
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L77] Assistant: [[reply_to_current]] [[audio_as_voice]] [[tts:voice=en-GB-LibbyNeural]] [[tts:text]]Hello Allen. This is a quick test of the Libby UK voice. If you like this one more, I can switch your default to Libby.[[/tts:text]]
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L78] User: they sounds all the same
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L80] Assistant: Yeah — that tracks. Microsoft’s UK female voices often sound **very close**, especially in short clips. If you want a **noticeably different** voice, the real options are: - **UK male voice** on Microsoft - switch to a **different TTS provider** with more distinct 
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L81] User: is there any free providers?
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L83] Assistant: Yes — a few. **Free / no-key options** - **Microsoft** — what you’re using now. No API key needed, but voices are limited and often similar. - **Local CLI TTS** — free if you run a local model/tool on your machine, but setup is more work. **Free-tier / limited-cred
+[main/sessions/main/f9377775-3d05-47c2-9ecd-fb53d35f3736.jsonl#L83] Assistant: tradeoff is basically: - **Microsoft** → free, easy, okay quality - **ElevenLabs/OpenAI** → better voices, costs money - **Local** → free after setup, more fiddly If you want, I can give you the **best free upgrade path** from your current setup.

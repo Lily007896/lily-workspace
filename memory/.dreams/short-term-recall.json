@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T11:29:37.141Z",
+  "updatedAt": "2026-05-14T02:00:00.298Z",
   "entries": {
     "memory:memory/2026-02-28.md:2:5": {
       "key": "memory:memory/2026-02-28.md:2:5",
@@ -155,6 +155,1939 @@
         "fix",
         "ran",
         "update"
+      ]
+    },
+    "memory:memory/2026-05-13.md:2:2": {
+      "key": "memory:memory/2026-05-13.md:2:2",
+      "path": "memory/2026-05-13.md",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Allen set the Obsidian convention for all agents: use the shared default vault `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault`, with per-agent folders `Lily/`, `Moss/`, and `Iris/`; agents should create/open Obsidian notes in their own folder by default unless Allen specifie",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "215866901dd9"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "per-agent",
+        "create/open",
+        "allen",
+        "set",
+        "obsidian",
+        "convention",
+        "all",
+        "agents"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: Vault backup checked successfully; no changes to commit or push.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "backup",
+        "vault",
+        "checked",
+        "successfully",
+        "changes",
+        "commit",
+        "push"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Vault backup succeeded: committed and pushed 2 files to origin/main.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "backup",
+        "origin/main",
+        "vault",
+        "succeeded",
+        "committed",
+        "pushed",
+        "origin"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: finished？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "finished"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: Nothing’s currently running on my side. If you mean a specific task, send me which one and I’ll check right away.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "nothing’s",
+        "currently",
+        "running",
+        "side",
+        "mean",
+        "specific",
+        "task",
+        "send"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: You asked “finished？” but there wasn’t an active job/task in this chat for me to verify. So: if you meant **“is something still running?”** → **no**. If you meant a **specific task**, tell me which one and I’ll check it immediately.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "job/task",
+        "asked",
+        "finished",
+        "but",
+        "wasn’t",
+        "active",
+        "job",
+        "task"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: Help me check what our current version is.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "help",
+        "check",
+        "what",
+        "current",
+        "version"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: Here’s what I found: - **Workspace app version:** `1.0.0` - from `package.json` - **Current git state:** `f3f2767-dirty` - branch: `main` - “dirty” means there are uncommitted local changes - **OpenClaw version:** `2026.5.7 (eeef486)` If you want, I can also check **ex",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "1.0.0",
+        "package.json",
+        "f3f2767-dirty",
+        "2026.5.7",
+        "here’s",
+        "what",
+        "found",
+        "app"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: Can you help me look into how the OpenClaw memory system is currently operating and whether the recent updates have included any improvements?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "can",
+        "help",
+        "look",
+        "how",
+        "openclaw",
+        "currently",
+        "operating",
+        "whether"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: Yes — I checked both **your live setup** and the **recent release/docs changes**. ## How your memory system is operating right now Your current OpenClaw config is using **QMD** as the memory backend, not the builtin SQLite memory engine. **Live state** - **Backend:** `",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "qmd",
+        "release/docs",
+        "yes",
+        "checked",
+        "both",
+        "live",
+        "setup",
+        "recent"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: current docs, `searchMode: \"search\"` is **BM25/lexical only**, not semantic vector retrieval - `openclaw memory status --deep` also reports: - `Embeddings: unavailable` - `Vector: disabled` So **right now your memory recall is working, but mainly as lexical/QMD search",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "embedding",
+        "embeddings",
+        "qmd",
+        "bm25/lexical",
+        "lexical/qmd",
+        "current",
+        "docs",
+        "searchmode"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: `MEMORY.md` and other workspace files 2. **Searchable memory**: daily notes and other indexed memory files via tools That matches the docs and explains why memory feels lighter unless explicitly recalled. ## Have recent updates improved memory? **Yes — quite a bit.** T",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "memory.md",
+        "other",
+        "searchable",
+        "indexed",
+        "via",
+        "tools",
+        "matches",
+        "docs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: That’s a real upgrade for stability and performance. **2. Dreaming got cleaner** Recent updates added: - `dreaming.model` support - grounded REM backfill for replaying older daily notes - better cleanup/isolation of dreaming artifacts - default separation of dreaming o",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "dreaming.model",
+        "cleanup/isolation",
+        "that’s",
+        "real",
+        "upgrade",
+        "stability",
+        "performance",
+        "dreaming"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: much in core memory behavior. The main memory-related item I found was: - **Active Memory:** require admin scope for global memory toggles So `2026.5.7` is more of a **hardening release** for memory-related controls, not a major memory capability upgrade. ## My take Yo",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "memory-related",
+        "2026.5.7",
+        "core",
+        "behavior",
+        "related",
+        "item",
+        "found",
+        "was"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: because it may actually be the better tradeoff for your setup**.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "may",
+        "actually",
+        "better",
+        "tradeoff",
+        "setup"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: I just want OpenClaw to have the best memory performance possible so it can remember everything it's supposed to. What should the settings be for that?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "want",
+        "openclaw",
+        "best",
+        "performance",
+        "possible",
+        "can",
+        "remember",
+        "everything"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] Hey Allen 🌿 I’m here. What do you want to do?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "hey",
+        "allen",
+        "i’m",
+        "here",
+        "what",
+        "want"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: 幫我睇下 OpenClaw 而家最新嘅 update 係咩。 請幫我 update 到最新版本，跟住 compare 下我而家呢個 version 同最新 version 之間嘅 difference，睇下有啲咩 major change。 1. 如果只係 bug fix 就唔使同我講。 2. 請話我知有啲咩大改變會影響到我喺 OpenClaw 上嘅使用。 3. 特別係關於 OpenClaw 記憶上嘅一啲改進，記得要話我知。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "openclaw",
+        "最新",
+        "update",
+        "版本",
+        "跟住",
+        "compare",
+        "version",
+        "之間"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: **Checking current version, latest release, then updating and comparing meaningful changes.**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "checking",
+        "current",
+        "version",
+        "latest",
+        "release",
+        "updating",
+        "comparing",
+        "meaningful"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: **Updating to latest stable and gathering release notes from current -> latest stable.**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "updating",
+        "latest",
+        "stable",
+        "gathering",
+        "release",
+        "current"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: **The updater hit a package verification problem after installing 2026.5.7. I’ll verify the actual installed version and health before deciding whether a repair is needed.**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "2026.5.7",
+        "updater",
+        "hit",
+        "package",
+        "verification",
+        "problem",
+        "installing",
+        "i’ll"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: **I’m going to repair the config with doctor, then re-check status so you’re actually on a healthy latest version.**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "re-check",
+        "i’m",
+        "going",
+        "repair",
+        "config",
+        "doctor",
+        "check",
+        "status"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: Workspace backup succeeded.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "backup",
+        "succeeded"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: Vault backup succeeded and pushed to origin/main.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "backup",
+        "origin/main",
+        "vault",
+        "succeeded",
+        "pushed",
+        "origin"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Running the refresh, then I’ll verify the index counts.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "running",
+        "refresh",
+        "i’ll",
+        "verify",
+        "index",
+        "counts"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Collections updated: OK (3/3, refresh exited 0) Documents indexed: 214 Vectors embedded: 410 Timestamp: 2026-05-13 12:20:48 BST",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "3/3",
+        "collections",
+        "updated",
+        "refresh",
+        "exited",
+        "documents",
+        "indexed",
+        "vectors"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: lily-workspace: success; moss-workspace: success; iris-workspace: success.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "lily-workspace",
+        "moss-workspace",
+        "iris-workspace",
+        "lily",
+        "success",
+        "moss",
+        "iris"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: how to use tts",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "how",
+        "use",
+        "tts"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: Two ways: 1. **Ask normally** - “Read this aloud” - “Reply with TTS” - “Send this as voice” 2. **Use TTS tags in your message** - `[[tts:text]]Hello Allen[[/tts:text]]` - or inline controls like `[[tts:key=value]]` if you want voice settings A simple example: ```text [",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "two",
+        "ways",
+        "ask",
+        "normally",
+        "read",
+        "aloud",
+        "reply",
+        "tts"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: what do I need to know before I paint my summer house reply as voice",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "what",
+        "need",
+        "know",
+        "paint",
+        "summer",
+        "house",
+        "reply",
+        "voice"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] [[audio_as_voice]]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "audio-as-voice"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: what setting can I set about the tts, reply as text",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "what",
+        "setting",
+        "can",
+        "set",
+        "tts",
+        "reply"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: Main things you can control: - **Whether to use TTS at all** - Ask: “reply as voice” / “read this aloud” - **Spoken text** - Use: ```text [[tts:text]] Your spoken text here [[/tts:text]] ``` - **TTS options via directive** - Use: ```text [[tts:key=value]] ``` - Exact s",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "things",
+        "can",
+        "control",
+        "whether",
+        "use",
+        "tts",
+        "all",
+        "ask"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: can I change the voice",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "can",
+        "change",
+        "voice"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: Yes, probably — but it depends on which TTS provider/config is active. In practice, you have 2 levels: - **Per reply**: ask me for a different voice/style if the backend supports it - **Default voice**: change the TTS config so future voice replies use that voice Examp",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "provider/config",
+        "voice/style",
+        "yes",
+        "probably",
+        "but",
+        "depends",
+        "which",
+        "tts"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: go ahead",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "ahead"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: I’m checking the local OpenClaw config to see what TTS backend and voice options are actually enabled.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "i’m",
+        "checking",
+        "local",
+        "openclaw",
+        "config",
+        "see",
+        "what",
+        "tts"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: Yep — I checked your local setup. **Current TTS config** - **Provider:** `microsoft` - **Default voice:** `en-US-MichelleNeural` - **Language:** `en-US` - **Mode:** `tagged` — so TTS only triggers when explicitly requested/tagged - **Format:** MP3 From your config, the",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "en-us-michelleneural",
+        "en-us",
+        "requested/tagged",
+        "yep",
+        "checked",
+        "local",
+        "setup",
+        "current"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: ```json \"voice\": \"en-US-AriaNeural\" ``` or a UK-style option like: ```json \"voice\": \"en-GB-SoniaNeural\" ``` **Per-reply overrides** Likely also possible with tags like: ```text [[tts:voice=en-US-AriaNeural]] [[tts:text]]Hello[[/tts:text]] ``` since your setup doesn’t a",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "en-us-arianeural",
+        "uk-style",
+        "en-gb-sonianeural",
+        "per-reply",
+        "voice",
+        "arianeural",
+        "style",
+        "option"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: I need uk voice",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "need",
+        "voice"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: Yes. If your goal is **best recall quality**, I’d switch you to this stack: ## What I’d use 1. **Keep QMD** 2. Change QMD from **lexical-only** to **full semantic mode** 3. **Enable session transcript indexing** 4. Turn on **Active Memory** so recall happens *before* r",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "qmd",
+        "lexical-only",
+        "yes",
+        "goal",
+        "best",
+        "recall",
+        "quality",
+        "i’d"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: halfLifeDays: 30 } } } } } }, memory: { backend: \"qmd\", citations: \"auto\", qmd: { searchMode: \"query\", includeDefaultMemory: true, sessions: { enabled: true }, update: { interval: \"5m\", debounceMs: 15000, startup: \"immediate\" }, limits: { maxResults: 10, timeoutMs: 120",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "qmd",
+        "halflifedays",
+        "backend",
+        "citations",
+        "auto",
+        "searchmode",
+        "query",
+        "includedefaultmemory"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: [\"memory\", \"sessions\"]` + `qmd.sessions.enabled: true`** Lets it remember prior conversations, not just `MEMORY.md` and daily notes. - **Active Memory** Makes recall proactive instead of waiting for the model to decide to search. - **MMR + temporal decay** Better varie",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "qmd",
+        "qmd.sessions.enabled",
+        "memory.md",
+        "true",
+        "lets",
+        "remember",
+        "prior",
+        "conversations"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: Done. What changed: - switched QMD to **`searchMode: \"query\"`** - enabled **session memory** - set memory sources to **`[\"memory\", \"sessions\"]`** - enabled **MMR** + **temporal decay** - raised QMD limits to **10 results** / **12s timeout** - enabled **active-memory**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "qmd",
+        "active-memory",
+        "done",
+        "what",
+        "changed",
+        "switched",
+        "searchmode",
+        "query"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: long-term promotion into `MEMORY.md`.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "long-term",
+        "memory.md",
+        "term",
+        "promotion"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "User: So give me a summary of how I can benefit from this setting.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "give",
+        "summary",
+        "how",
+        "can",
+        "benefit",
+        "setting"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: You’ll mainly benefit in 4 ways: - **Better recall of meaning, not just keywords** Before, memory was mostly lexical. Now OpenClaw is much better at finding relevant past context even when wording changes. - **It can remember past conversations too** Not just `MEMORY.m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "memory.m",
+        "you’ll",
+        "mainly",
+        "benefit",
+        "ways",
+        "better",
+        "recall",
+        "meaning"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "Assistant: plain English: **it should feel more like I actually remember your preferences, prior discussions, and ongoing context — with less prompting from you.** Tradeoff: - a bit **more latency** - a bit **more CPU/storage** - but **better memory quality** One important note:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "cpu/storage",
+        "plain",
+        "english",
+        "feel",
+        "like",
+        "actually",
+        "remember",
+        "preferences"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "User: So should we enable dreaming? What is that used for?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "enable",
+        "dreaming",
+        "what",
+        "used"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: Dreaming is basically **memory consolidation**. ## What it does It reviews short-term memory signals over time and tries to promote only the **important, durable stuff** into long-term memory like `MEMORY.md`. So instead of: - every small thing becoming permanent memor",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "short-term",
+        "long-term",
+        "memory.md",
+        "dreaming",
+        "basically",
+        "consolidation",
+        "what",
+        "does"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "Assistant: yet — I’d leave Dreaming off for now.** Why: - we already made a big upgrade by improving **recall** - that gives you the most immediate benefit - Dreaming is more about **promotion/consolidation quality**, not raw recall - it’s useful once you’ve built up more memory",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "promotion/consolidation",
+        "yet",
+        "i’d",
+        "leave",
+        "dreaming",
+        "off",
+        "now",
+        "why"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: recommendation specifically for your current setup**.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "recommendation",
+        "specifically",
+        "current",
+        "setup"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "User: HelpMeToTurnItOn should be a function that is helpful.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "helpmetoturniton",
+        "function",
+        "helpful"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: I found your default TTS setting — I’m switching it to a UK English voice now.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "found",
+        "tts",
+        "setting",
+        "i’m",
+        "switching",
+        "english",
+        "voice",
+        "now"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: Done — I changed your default TTS to a UK voice: - **Voice:** `en-GB-SoniaNeural` - **Language:** `en-GB` If you send a voice-triggered reply now, it should use the UK voice. If you want, I can also switch to a **male UK voice** instead.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "en-gb-sonianeural",
+        "en-gb",
+        "voice-triggered",
+        "done",
+        "changed",
+        "tts",
+        "voice",
+        "sonianeural"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "User: send a test for me",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "send",
+        "test"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] [[audio_as_voice]]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "audio-as-voice"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "User: do you have another gb female voice",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "another",
+        "female",
+        "voice"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: Yes — likely these UK female Microsoft voices are available: - `en-GB-SoniaNeural` — your current one - `en-GB-LibbyNeural` - `en-GB-MaisieNeural` There used to be `en-GB-MiaNeural`, but Microsoft retired it. If you want, I can switch you to: 1. **Libby** 2. **Maisie**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "en-gb-sonianeural",
+        "en-gb-libbyneural",
+        "en-gb-maisieneural",
+        "en-gb-mianeural",
+        "yes",
+        "likely",
+        "female",
+        "microsoft"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "User: ok send me a test",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "send",
+        "test"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] [[audio_as_voice]] [[tts:voice=en-GB-LibbyNeural]] [[tts:text]]Hello Allen. This is a quick test of the Libby UK voice. If you like this one more, I can switch your default to Libby.[[/tts:text]]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "audio-as-voice",
+        "en-gb-libbyneural",
+        "tts:voice",
+        "libbyneural",
+        "tts:text",
+        "hello",
+        "allen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "User: they sounds all the same",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "sounds",
+        "all"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: Yeah — that tracks. Microsoft’s UK female voices often sound **very close**, especially in short clips. If you want a **noticeably different** voice, the real options are: - **UK male voice** on Microsoft - switch to a **different TTS provider** with more distinct voic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "yeah",
+        "tracks",
+        "microsoft’s",
+        "female",
+        "voices",
+        "often",
+        "sound",
+        "very"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "User: is there any free providers?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "any",
+        "free",
+        "providers"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: Yes — a few. **Free / no-key options** - **Microsoft** — what you’re using now. No API key needed, but voices are limited and often similar. - **Local CLI TTS** — free if you run a local model/tool on your machine, but setup is more work. **Free-tier / limited-credit o",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "no-key",
+        "model/tool",
+        "free-tier",
+        "limited-credit",
+        "yes",
+        "few",
+        "free",
+        "key"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "Assistant: tradeoff is basically: - **Microsoft** → free, easy, okay quality - **ElevenLabs/OpenAI** → better voices, costs money - **Local** → free after setup, more fiddly If you want, I can give you the **best free upgrade path** from your current setup.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T02:00:00.298Z",
+      "lastRecalledAt": "2026-05-14T02:00:00.298Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "openai",
+        "elevenlabs/openai",
+        "tradeoff",
+        "basically",
+        "microsoft",
+        "free",
+        "easy",
+        "okay"
       ]
     }
   }
