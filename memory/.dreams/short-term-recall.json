@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T02:00:00.298Z",
+  "updatedAt": "2026-05-15T02:00:00.279Z",
   "entries": {
     "memory:memory/2026-02-28.md:2:5": {
       "key": "memory:memory/2026-02-28.md:2:5",
@@ -2088,6 +2088,1723 @@
         "free",
         "easy",
         "okay"
+      ]
+    },
+    "memory:memory/2026-05-14.md:3:6": {
+      "key": "memory:memory/2026-05-14.md:3:6",
+      "path": "memory/2026-05-14.md",
+      "startLine": 3,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Saved note: AI-native product founder learning path: Allen said AI answers often feel valuable but hard to save/find/revisit later.; Recommendation: save full reusable answers in Obsidian, and keep a short pointer in memory so Lily can retrieve them later.; Saved note: `/mnt/c/Us",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "130e556d2bab"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "ai-native",
+        "save/find/revisit",
+        "mnt/c/us",
+        "saved",
+        "native",
+        "product",
+        "founder",
+        "learning"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "User: are we using the latest chatgpt model",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "latest",
+        "chatgpt",
+        "model"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: We’re currently using **`openai-codex/gpt-5.4`** in this chat. So: **yes, it’s a very current OpenAI model**, but it’s the **Codex-flavoured GPT-5.4**, not the plain “ChatGPT app” label. If you want, I can also check whether there’s a **newer available model configured",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "openai-codex/gpt-5.4",
+        "codex-flavoured",
+        "gpt-5.4",
+        "we’re",
+        "currently",
+        "codex"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "User: go ahead",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "ahead"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: I checked your configured models. **Available in your OpenClaw setup:** - `openai-codex/gpt-5.2` - `openai-codex/gpt-5.3-codex` - `openai-codex/gpt-5.4` **Current default:** - `openai-codex/gpt-5.4` So **within your current config, you’re already on the newest one avai",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "openai-codex/gpt-5.2",
+        "openai-codex/gpt-5.3-codex",
+        "openai-codex/gpt-5.4",
+        "checked",
+        "configured",
+        "models"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "User: as I know gpt 5.5 is out now, how can we switch to it",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "5.5",
+        "know",
+        "out",
+        "now",
+        "how",
+        "can",
+        "switch"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "Assistant: Yes — if your account/provider has access, switching is straightforward. **You have 2 choices:** 1. **Just switch this chat** - send: ```text /model openai-codex/gpt-5.5 ``` - But in your setup, `agents.defaults.models` is an **allowlist**, so this will only work if `o",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "account/provider",
+        "openai-codex/gpt-5.5",
+        "agents.defaults.models",
+        "yes",
+        "account",
+        "provider"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "Assistant: uses your **Codex/OpenAI OAuth-style setup** - `openai/gpt-5.5` = uses **OpenAI API key** setup instead Since your current auth is `openai-codex`, the most natural upgrade path is: ```text openai-codex/gpt-5.5 ``` **My recommendation** - First add `openai-codex/gpt-5.5",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "codex/openai",
+        "oauth-style",
+        "openai/gpt-5.5",
+        "openai-codex",
+        "openai-codex/gpt-5.5",
+        "uses"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "User: Search the web for me: can OpenClaw use ChatGPT 5.5, and how can we set it up?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "5.5",
+        "web",
+        "can",
+        "openclaw",
+        "use",
+        "chatgpt",
+        "how"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Assistant: Yes — **OpenClaw can use GPT-5.5**. Best current setup from the docs/web results: - **Use model:** `openai/gpt-5.5` - **Not the old legacy form:** `openai-codex/gpt-5.5` That older prefix is treated as legacy and docs say newer setups should prefer `openai/gpt-5.5`. **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "gpt-5.5",
+        "docs/web",
+        "openai/gpt-5.5",
+        "openai-codex/gpt-5.5",
+        "yes",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "Assistant: `agents.defaults.models[\"openai/gpt-5.5\"]` 4. **Optional: switch just one chat/session** - In chat: ```text /model openai/gpt-5.5 ``` **Important nuance** - Docs say `openai/*` now uses the **native Codex runtime automatically** for agent turns. - So for the normal “Ch",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "agents.defaults.models",
+        "openai/gpt-5.5",
+        "chat/session",
+        "5.5",
+        "optional",
+        "switch"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "Assistant: allowlist - change default from `openai-codex/gpt-5.4` to `openai/gpt-5.5` If you want, I can update your OpenClaw config to the **recommended GPT-5.5 setup** now.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "openai-codex/gpt-5.4",
+        "openai/gpt-5.5",
+        "gpt-5.5",
+        "allowlist",
+        "change",
+        "codex"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "User: go ahead",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "ahead"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: Vault backup succeeded and pushed to origin/main.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "backup",
+        "origin/main",
+        "vault",
+        "succeeded",
+        "pushed",
+        "origin"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: lily-workspace: success; moss-workspace: success; iris-workspace: success.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "lily-workspace",
+        "moss-workspace",
+        "iris-workspace",
+        "lily",
+        "success",
+        "moss",
+        "iris"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: QMD refresh OK — all 4 collections updated. Documents indexed: 235 total files. Vectors embedded: 465 total; refreshed 20 chunks from 8 docs. Timestamp: 2026-05-14 07:30 Europe/London.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "qmd",
+        "europe/london",
+        "refresh",
+        "all",
+        "collections",
+        "updated",
+        "documents",
+        "indexed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: https://youtu.be/131yAOjxHHQ?si=zGp3L6DquKPjsWme what happend? why he quit",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "youtu.be/131yaojxhhq",
+        "https",
+        "youtu.be",
+        "131yaojxhhq",
+        "zgp3l6dqukpjswme",
+        "what",
+        "happend",
+        "why"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: He didn’t quit YouTube — he says he’s **done with Anthropic/Claude** and **cancelled his Claude plan**. Why: - Anthropic changed Claude subscription usage rules. - Starting June 15, third-party/programmatic tools using Claude SDK / `claude -p` get a separate monthly cr",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "anthropic/claude",
+        "third-party/programmatic",
+        "didn’t",
+        "quit",
+        "youtube",
+        "says",
+        "he’s",
+        "done"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: clarity. So the short version: **He quit/cancelled Claude because Anthropic made third-party Claude integrations much less useful/valuable, after encouraging developers to build on that path. He’s moving toward Codex/other tools instead.**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "quit/cancelled",
+        "third-party",
+        "useful/valuable",
+        "codex/other",
+        "clarity",
+        "version",
+        "quit",
+        "cancelled"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: but is I m using claude code, there will be no affect",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "but",
+        "claude",
+        "code",
+        "will",
+        "affect"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: Mostly yes: **if you use Claude Code normally in the terminal interactively**, this change should **not affect your usual Claude Code limits**. Affected / maybe affected: - **Claude Code normal interactive use**: ✅ should be fine - Typing `claude` in terminal and chatt",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "mostly",
+        "yes",
+        "use",
+        "claude",
+        "code",
+        "normally",
+        "terminal",
+        "interactively"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: agents, wrappers, or automation, then yes, that’s the risky part.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "agents",
+        "wrappers",
+        "automation",
+        "yes",
+        "that’s",
+        "risky"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "User: https://youtu.be/_Q-e_nczWqM?si=J26myRmXeolum3ie main idea of this video",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "youtu.be",
+        "q-e-nczwqm",
+        "https",
+        "e-nczwqm",
+        "j26myrmxeolum3ie",
+        "idea",
+        "video"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: Main idea: **the AI “cheap token” era is starting to crack.** The video argues that AI companies are realizing current pricing is too generous / unsustainable, so they’re starting to reduce usage or change billing. Key points: - **Anthropic tested removing Claude Code",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "idea",
+        "cheap",
+        "token",
+        "era",
+        "starting",
+        "crack",
+        "video",
+        "argues"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: money from its core business. - Enterprise usage is exploding — example: **Uber burning through its AI budget quickly**. - Conclusion: AI won’t disappear, but **free/cheap generous usage will shrink**, and users should expect stricter limits or higher costs. Short vers",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "free/cheap",
+        "money",
+        "core",
+        "business",
+        "enterprise",
+        "usage",
+        "exploding",
+        "example"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: https://youtu.be/zaGOKd4jqEk?si=vhYkmVzCCHKFaueN",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "youtu.be/zagokd4jqek",
+        "https",
+        "youtu.be",
+        "zagokd4jqek",
+        "vhykmvzcchkfauen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: Main idea: **Anthropic’s “Mythos” security model is useful, but probably overhyped.** The video discusses Mythos being marketed as extremely powerful at finding security vulnerabilities — maybe “too dangerous” to release publicly. But when it was used to scan **curl**,",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "idea",
+        "anthropic’s",
+        "mythos",
+        "security",
+        "model",
+        "useful",
+        "but",
+        "probably"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: valuable, but it’s iterative progress, not magic.** Short version: **AI is getting good at finding bugs, but don’t believe the “it will end security problems” hype.**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "valuable",
+        "but",
+        "it’s",
+        "iterative",
+        "progress",
+        "not",
+        "magic",
+        "version"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Allen set the Obsidian convention for all agents: use the shared default vault `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault`, with per-agent folders `Lily/`, `Moss/`, and `Iris/`; agents should create/open Obsi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "per-agent",
+        "create/open",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: **no**. If you meant a **specific task**, tell me which one and I’ll check it immediately. - User: Help me check what our current version is. - Assistant: Here’s what I found: - **Workspace app version:** `1.0.0` - from `package.json` - **Current git state:** `f3f2767-dirty",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "1.0.0",
+        "package.json",
+        "f3f2767-dirty",
+        "meant",
+        "specific",
+        "task",
+        "tell",
+        "which"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "User: builtin SQLite memory engine. **Live state** - **Backend:** ` - Assistant: current docs, `searchMode: \"search\"` is **BM25/lexical only**, not semantic vector retrieval - `openclaw memory status --deep` also reports: - `Embeddings: unavailable` - `Vector: disabled` So **righ",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "embedding",
+        "embeddings",
+        "bm25/lexical",
+        "builtin",
+        "sqlite",
+        "engine",
+        "live",
+        "state"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: I filed the day into Lily, Moss, and Iris like three paper boats in the same dark vault, each folder a little harbor under `/mnt/c/.../Lily’s vault`. Allen set the convention, and suddenly even memory had manners: create here, open there, don’t wander into another crea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "mnt/c",
+        "filed",
+        "day",
+        "lily",
+        "moss",
+        "iris",
+        "like",
+        "three"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: a key shaped like a question mark.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "key",
+        "shaped",
+        "like",
+        "question",
+        "mark"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "Assistant: I’m updating your OpenClaw config to the newer GPT‑5.5 route and keeping the old entries as fallback.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "5.5",
+        "i’m",
+        "updating",
+        "openclaw",
+        "config",
+        "newer",
+        "route"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "Assistant: Done. What changed: - Default model → **`openai/gpt-5.5`** - Allowlist now includes → **`openai/gpt-5.5`** Verified: - `openclaw status` now shows **default gpt-5.5** One small nuance: - **This current chat session is still on gpt-5.4** - **New sessions** should use **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "openai/gpt-5.5",
+        "gpt-5.5",
+        "gpt-5.4",
+        "done",
+        "what",
+        "changed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "User: so are we using 5.5 now,give me some evidence",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "5.5",
+        "now",
+        "give",
+        "evidence"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "Assistant: Not **in this current chat**. **Evidence:** - **Current session status** says: - `Model: openai-codex/gpt-5.4` - **OpenClaw global status** says: - `Sessions: ... default gpt-5.5` So the situation is: - **Current chat:** still **GPT-5.4** - **New default for new sessio",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "openai-codex/gpt-5.4",
+        "gpt-5.5",
+        "gpt-5.4",
+        "not",
+        "current",
+        "chat"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "User: Model \"openai/gpt-5.5\" is not allowed. Use /models to list providers, or /models <provider> to list models. Add it with: openclaw config set agents.defaults.models '{\"openai/gpt-5.5\":{}}' --strict-json --merge Then retry:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "openai/gpt-5.5",
+        "agents.defaults.models",
+        "strict-json",
+        "model",
+        "5.5",
+        "not"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "Assistant: Good news: **`openai/gpt-5.5` is now allowed**. Evidence from your machine: - `openclaw models status --json` shows: - `defaultModel: \"openai/gpt-5.5\"` - `allowed` includes `\"openai/gpt-5.5\"` - `openclaw models list --provider openai` shows: - `openai/gpt-5.5 ... defau",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "openai/gpt-5.5",
+        "good",
+        "news",
+        "5.5",
+        "now",
+        "allowed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "Assistant: openai/gpt-5.5 ``` If you want, I can also help you verify the auth step right after you do it.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "openai/gpt-5.5",
+        "5.5",
+        "want",
+        "can",
+        "help",
+        "verify"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "User: I would like to know if the current ChatGPT 5.0 (or 5.5) check is using an API key or my existing subscription.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "5.0",
+        "5.5",
+        "would",
+        "like",
+        "know",
+        "current",
+        "chatgpt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "Assistant: Right now, **this chat is using your existing subscription-style OAuth login, not an API key**. Evidence: - Current session shows: - **Model:** `openai-codex/gpt-5.4` - **Auth:** `oauth (openai-codex:allen6qiu@gmail.com ...)` - Model status shows: - **OAuth profiles ex",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "subscription-style",
+        "openai-codex/gpt-5.4",
+        "openai-codex",
+        "gmail.com",
+        "right",
+        "now"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "User: Go ahead.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "ahead"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "Assistant: The cleanest path is: 1. **Sign in to the newer `openai` route using your subscription** ```bash openclaw models auth login --provider openai ``` This is the modern OpenClaw path for ChatGPT/Codex-backed GPT-5.5. 2. **Keep the model as** ```text openai/gpt-5.5 ``` 3. *",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "chatgpt/codex-backed",
+        "gpt-5.5",
+        "openai/gpt-5.5",
+        "cleanest",
+        "path",
+        "sign"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "Assistant: profile ### Important caveat Right now your machine has: - `openai-codex` OAuth set up - **no `openai` auth configured yet** So until you run that login, GPT-5.5 on `openai/gpt-5.5` won’t use your subscription. If you want, after you run the login, paste the result her",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "openai-codex",
+        "gpt-5.5",
+        "openai/gpt-5.5",
+        "profile",
+        "important",
+        "caveat"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "User: https://youtu.be/Aiz6yMTLeaE?si=gjv8id2uJyJk1lJi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "youtu.be/aiz6ymtleae",
+        "https",
+        "youtu.be",
+        "aiz6ymtleae",
+        "gjv8id2ujyjk1lji"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: Main idea: **OpenAI models started overusing “goblin/gremlin/creature” language because of personality/reward training leakage.** What happened: - ChatGPT / Codex users noticed the model kept saying things like **goblin**, **gremlin**, **raccoon**, **ogre**, etc. - Ope",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "goblin/gremlin/creature",
+        "personality/reward",
+        "idea",
+        "models",
+        "started",
+        "overusing"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: habits. Short version: **The video is about OpenAI accidentally training ChatGPT/Codex to talk like a fantasy goblin nerd, then trying to patch it with prompts.**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "chatgpt/codex",
+        "habits",
+        "version",
+        "video",
+        "accidentally",
+        "training"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "User: https://youtu.be/Q9GAJ_ka4l4?si=v_BLk9RK0JPVWYS2",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "youtu.be/q9gaj-ka4l4",
+        "v-blk9rk0jpvwys2",
+        "https",
+        "youtu.be",
+        "q9gaj-ka4l4"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: Main idea: **macOS has a TCP networking bug that appears after ~49.7 days of uptime.** What happens: - After **49 days, 17 hours, 2 minutes, 47 seconds**, a macOS internal TCP timer overflows. - It uses a **32-bit millisecond counter** (`uint32`). - 32-bit milliseconds",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "network",
+        "49.7",
+        "32-bit",
+        "idea",
+        "macos",
+        "has",
+        "tcp",
+        "networking"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: a “49-day uptime time bomb” caused by a 32-bit timer overflow.**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "49-day",
+        "32-bit",
+        "day",
+        "uptime",
+        "time",
+        "bomb",
+        "caused",
+        "bit"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "User: https://youtu.be/nLgmTis9uM0?si=BJb1uQ1S3EJMwFM8 what is way bigger?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "youtu.be/nlgmtis9um0",
+        "https",
+        "youtu.be",
+        "nlgmtis9um0",
+        "bjb1uq1s3ejmwfm8",
+        "what",
+        "way",
+        "bigger"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: “Way bigger” = **the whole white-collar computer-work market**, not just coding. His point: - OpenAI and Anthropic are using developers as the **early adopters**. - Coding agents like **Codex** and **Claude Code** are just the first step. - The real target is people do",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "openai",
+        "white-collar",
+        "computer-work",
+        "way",
+        "bigger",
+        "whole",
+        "white",
+        "collar"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "User: I have heard some MIT scholars analyze that the jobs AI is least likely to replace are those that are physically intensive, as well as roles requiring strategic thinking and the ability to provide guidance. Such jobs won't be easily replaced by AI. AI is incredibly efficien",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "heard",
+        "scholars",
+        "analyze",
+        "jobs",
+        "least",
+        "likely",
+        "replace",
+        "those"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "Assistant: For app/website developers, the hardest-to-replace part is not “writing code.” AI is getting very good at that. The harder part is **deciding what should be built, why, for whom, and how to steer it when reality gets messy.** AI still struggles with these areas: 1. **U",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "app/website",
+        "hardest-to-replace",
+        "app",
+        "website",
+        "developers",
+        "hardest",
+        "replace",
+        "not"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: what users will tolerate - what feels trustworthy - what is too complicated - what is commercially valuable - what should be removed, not added - what creates retention or willingness to pay A good developer increasingly becomes someone who can say: > “Technically yes,",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "what",
+        "users",
+        "will",
+        "tolerate",
+        "feels",
+        "trustworthy",
+        "too",
+        "complicated"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: choose. 4. **Taste** This is underrated. AI can produce “correct” work that feels generic, bloated, or slightly wrong. Humans with taste notice: - this page feels untrustworthy - this onboarding has too many steps - this copy is too vague - this UI looks like every AI-",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T02:00:00.279Z",
+      "lastRecalledAt": "2026-05-15T02:00:00.279Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "choose",
+        "taste",
+        "underrated",
+        "can",
+        "produce",
+        "correct",
+        "feels",
+        "generic"
       ]
     }
   }

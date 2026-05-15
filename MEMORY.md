@@ -19,5 +19,7 @@ This file is the curated long-term memory. Keep it short and high-signal.
 - Browser: when a real browser is needed, prefer **agent-browser** (project-local in workspace) over the built-in OpenClaw `browser` tool.
 - Skill creation preference: when Allen asks to create/update skills, use Anthropic’s **skill-creator** method/reference first.
 - Search policy preference (all agents): Exa first by default; prefer original/primary sources; avoid low-quality SEO pages; use stronger evidence standards for health topics; use transcript-first for YouTube; always honor explicit source/tool requests.
-- Obsidian: all agents use the shared default vault `C:\Users\allen\Documents\Obsidian\Lily's vault` (`/mnt/c/Users/allen/Documents/Obsidian/Lily's vault`), but each agent creates/opens its own notes in its own folder by default: `Lily/`, `Moss/`, `Iris/`.
+- Obsidian: all agents use the shared default vault `C:\Users\allen\Documents\Obsidian\Lily's vault` (`/mnt/c/Users/allen/Documents/Obsidian/Lily's vault`), but each agent creates/opens its own notes in its own folder by default: `Lily/`, `Moss/`, `Iris/`, `Otis/`.
+- Agent creation checklist: when Allen asks to create a new agent, handle all three setup layers: (1) OpenClaw agent + workspace, (2) workspace backup, and (3) Obsidian location/settings.
+- Otis agent: agent id `tech`, identity `Otis 🛠️`, workspace `/home/allen6qi/.openclaw/workspace-otis`, Obsidian folder `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/Otis`.
 - Valuable AI answers: when Allen wants to save/revisit an answer, save the full polished note in Obsidian and keep only a short pointer/index in memory. Use Lily notes by default, e.g. `Lily/Learning/`.

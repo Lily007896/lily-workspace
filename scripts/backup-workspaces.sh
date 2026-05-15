@@ -5,8 +5,10 @@ set -euo pipefail
 # - Lily workspace repo: ~/.openclaw/workspace
 # - Moss workspace repo: ~/.openclaw/workspace-work
 # - Iris workspace repo: ~/.openclaw/workspace-iris
+# - Otis workspace repo: ~/.openclaw/workspace-otis
 #
-# This script commits + pushes changes if any.
+# This script commits + pushes changes if any. If a newer workspace has no
+# remote yet, it still creates a local commit and prints a clear setup warning.
 
 backup_repo() {
   local dir="$1"
@@ -28,7 +30,8 @@ backup_repo() {
     return 2
   fi
 
-  git remote get-url origin >/dev/null 2>&1 || { echo "[$label] Missing git remote 'origin'" >&2; popd >/dev/null; return 2; }
+  local has_origin=1
+  git remote get-url origin >/dev/null 2>&1 || has_origin=0
 
   git add -A
 
@@ -41,14 +44,19 @@ backup_repo() {
   local stamp
   stamp="$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
   git commit -m "${label} backup ${stamp}" >/dev/null || true
-  git push -u origin "$branch" >/dev/null
+  if [[ "$has_origin" -eq 1 ]]; then
+    git push -u origin "$branch" >/dev/null
+    echo "[$label] Backed up to origin/${branch} (${stamp})."
+  else
+    echo "[$label] Local backup commit only (${stamp}); missing git remote 'origin'." >&2
+  fi
 
-  echo "[$label] Backed up to origin/${branch} (${stamp})."
   popd >/dev/null
 }
 
-# Backup Lily + Moss + Iris (workspace repos only)
+# Backup Lily + Moss + Iris + Otis (workspace repos only)
 LILY_DIR="${OPENCLAW_WORKSPACE_DIR:-$HOME/.openclaw/workspace}"
 backup_repo "$LILY_DIR" "lily-workspace"
 backup_repo "$HOME/.openclaw/workspace-work" "moss-workspace"
 backup_repo "$HOME/.openclaw/workspace-iris" "iris-workspace"
+backup_repo "$HOME/.openclaw/workspace-otis" "otis-workspace"
