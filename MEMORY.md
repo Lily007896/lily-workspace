@@ -23,3 +23,8 @@ This file is the curated long-term memory. Keep it short and high-signal.
 - Agent creation checklist: when Allen asks to create a new agent, handle all three setup layers: (1) OpenClaw agent + workspace, (2) workspace backup, and (3) Obsidian location/settings.
 - Otis agent: agent id `tech`, identity `Otis 🛠️`, workspace `/home/allen6qi/.openclaw/workspace-otis`, Obsidian folder `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/Otis`.
 - Valuable AI answers: when Allen wants to save/revisit an answer, save the full polished note in Obsidian and keep only a short pointer/index in memory. Use Lily notes by default, e.g. `Lily/Learning/`.
+
+## Promoted From Short-Term Memory (2026-05-18)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-05-13.md:2:2 -->
+- - Allen set the Obsidian convention for all agents: use the shared default vault `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault`, with per-agent folders `Lily/`, `Moss/`, and `Iris/`; agents should create/open Obsidian notes in their own folder by default unless Allen specifies another location. [score=0.805 recalls=0 avg=0.620 source=memory/2026-05-13.md:2-2]
