@@ -8,6 +8,7 @@
 Heuristics:
 - Ignore routine bug-fix bullets.
 - Keep: new features, breaking changes, deprecations, config/ops changes, security, migrations.
+- Translate technical release bullets into Allen-facing impact summaries.
 """
 
 from __future__ import annotations
@@ -51,6 +52,67 @@ IMPORTANT_KEYWORDS = [
 
 BUGFIX_ONLY_PAT = re.compile(r"\b(fix|fixed|fixes|bug|typo|minor|cleanup|refactor|lint)\b", re.I)
 FEATURE_PAT = re.compile(r"\b(add|added|new|introduc|support|enable|feature)\b", re.I)
+
+
+PLAIN_CATEGORIES = [
+    (
+        "Messaging and replies",
+        ["telegram", "discord", "whatsapp", "message", "reply", "delivery", "channel", "dm", "topic", "forum", "tts"],
+        "Replies and channel messages should be more reliable, with less chance of messages landing in the wrong place or disappearing into internal output.",
+    ),
+    (
+        "Background jobs and cron",
+        ["cron", "scheduler", "scheduled", "heartbeat", "background"],
+        "Scheduled jobs should interfere less with normal chat and should be easier to diagnose when something goes wrong.",
+    ),
+    (
+        "Updates and restarts",
+        ["update", "restart", "gateway", "doctor", "install", "npm", "node", "service", "windows", "docker", "podman"],
+        "Updating OpenClaw and restarting the Gateway should be safer, with fewer stuck or half-updated states.",
+    ),
+    (
+        "Agent behavior",
+        ["agent", "codex", "subagent", "openai", "anthropic", "claude", "gemini", "model", "provider", "tool", "schema"],
+        "Agents should make fewer tool mistakes, route work more cleanly, and recover better from stale sessions or model quirks.",
+    ),
+    (
+        "Memory and search",
+        ["memory", "search", "embedding", "vector", "qmd", "sqlite"],
+        "Memory/search should feel less likely to stall or return confusing degraded results.",
+    ),
+    (
+        "Browser automation",
+        ["browser", "modal", "dialog", "evaluate", "tab", "url"],
+        "Browser automation should handle popups and slower page scripts better.",
+    ),
+    (
+        "Mac app and UI",
+        ["mac app", "settings", "control ui", "dashboard", "sidebar", "pane", "menu", "dock", "canvas"],
+        "The desktop UI should be cleaner and less confusing, especially around Settings and status screens.",
+    ),
+    (
+        "Mobile and voice",
+        ["android", "ios", "voice", "talk", "realtime", "audio", "mic"],
+        "Mobile and voice features should behave more smoothly, especially realtime talk mode and onboarding.",
+    ),
+    (
+        "Plugins and skills",
+        ["plugin", "plugins", "skill", "skills", "mcp", "clawhub"],
+        "Plugins and skills should be easier to install, manage, and recover when something is misconfigured.",
+    ),
+    (
+        "Security and permissions",
+        ["auth", "oauth", "token", "permission", "scope", "security", "secret", "credential", "allowlist", "deny"],
+        "Access control and credentials should be stricter and clearer, reducing accidental exposure or confusing permission failures.",
+    ),
+]
+
+WARNING_PATTERNS = [
+    (re.compile(r"\bminimum supported Node\.?js|minimum .*Node|Node\.?js .*22", re.I), "This release may require a newer Node.js 22 version. If updates fail later, check Node first."),
+    (re.compile(r"\bbreaking\b|\bmigration\b|\bdeprecat", re.I), "There may be compatibility or migration work for advanced/custom setups."),
+    (re.compile(r"\bconfig\b|\bprotocol\b|\bapi\b", re.I), "If you maintain custom config, plugins, or scripts, skim the linked release notes before changing those pieces."),
+    (re.compile(r"\bpermission\b|\bscope\b|\bauth\b|\boauth\b|\btoken\b", re.I), "If login or tool permissions act differently, it may be due to stricter auth handling rather than a broken install."),
+]
 
 
 def _http_json(url: str):
@@ -134,6 +196,68 @@ def _filter_body(md: str) -> list[str]:
     return deduped[:40]
 
 
+def _clean_note(line: str) -> str:
+    line = re.sub(r"^\s*[-*]\s*", "", line.strip())
+    line = re.sub(r"\s*\(#\d+[^)]*\)\s*", " ", line)
+    line = re.sub(r"\s+", " ", line)
+    return line.strip()
+
+
+def _plain_summary(lines: list[str]) -> tuple[str, list[tuple[str, str]], list[str]]:
+    """Return simple version, impact bullets, and warnings for a release."""
+    cleaned = [_clean_note(l) for l in lines if _clean_note(l)]
+    if not cleaned:
+        return (
+            "This looks mostly like a maintenance release. No major user-facing change stood out from the release notes.",
+            [("General stability", "Mostly small fixes and cleanup. You probably do not need to change how you use OpenClaw.")],
+            [],
+        )
+
+    lowered = "\n".join(cleaned).lower()
+    impacts: list[tuple[str, str]] = []
+    for title, keywords, summary in PLAIN_CATEGORIES:
+        if any(k in lowered for k in keywords):
+            impacts.append((title, summary))
+
+    if not impacts:
+        impacts.append(("General stability", "This release appears to be mostly behind-the-scenes polish, bug fixes, and reliability work."))
+
+    feature_count = sum(1 for l in cleaned if FEATURE_PAT.search(l))
+    warning_count = sum(1 for l in cleaned if any(p.search(l) for p, _ in WARNING_PATTERNS))
+
+    if warning_count:
+        simple = "This update includes reliability work plus a few compatibility-sensitive changes. Most of it is internal, but custom setups may need attention."
+    elif feature_count >= 4:
+        simple = "This update adds several useful capabilities, but most are still practical quality-of-life improvements rather than a new way to use OpenClaw."
+    else:
+        simple = "This is mostly a reliability and polish update. Day to day, it should make OpenClaw feel a bit steadier rather than noticeably different."
+
+    warnings = []
+    for pat, warning in WARNING_PATTERNS:
+        if any(pat.search(l) for l in cleaned) and warning not in warnings:
+            warnings.append(warning)
+
+    return simple, impacts[:8], warnings[:4]
+
+
+def _plain_block(title: str, lines: list[str], url: str = "") -> str:
+    simple, impacts, warnings = _plain_summary(lines)
+    out = []
+    out.append(f"OpenClaw update: {title}\n\n")
+    out.append(f"Simple version: {simple}\n\n")
+    out.append("What it means for you:\n")
+    for heading, summary in impacts:
+        out.append(f"- {heading}: {summary}\n")
+    if warnings:
+        out.append("\nWorth knowing:\n")
+        for warning in warnings:
+            out.append(f"- {warning}\n")
+    out.append("\nMy read: you usually do not need to learn anything new for this update. Treat it as improved reliability unless you run custom plugins, custom config, or unusual hosting.\n")
+    if url:
+        out.append(f"\nSource: {url}\n")
+    return "".join(out)
+
+
 def main() -> int:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -187,12 +311,16 @@ def main() -> int:
         if url:
             blocks.append(f"- Link: {url}\n")
 
+        blocks.append("\n### Plain-English impact summary\n")
+        blocks.append(_plain_block(name, important, url))
+        blocks.append("\n")
+
         if important:
-            blocks.append("\n### Impact-relevant notes (filtered)\n")
+            blocks.append("\n### Technical notes used for the summary\n")
             for l in important:
                 blocks.append(f"{l}\n")
         else:
-            blocks.append("\n### Impact-relevant notes (filtered)\n")
+            blocks.append("\n### Technical notes used for the summary\n")
             blocks.append("(No obvious impact-relevant items found; release appears mostly bug-fix / maintenance.)\n")
 
     note_path.write_text("".join(blocks), "utf-8")
@@ -213,16 +341,12 @@ def main() -> int:
     latest_important = [l for l in latest_important if l.strip()][:8]
 
     msg_lines = []
-    msg_lines.append(f"OpenClaw release update: {len(new_releases)} new release(s) detected")
+    msg_lines.append(f"OpenClaw release update: {len(new_releases)} new release(s) detected\n")
     if latest_title:
-        msg_lines.append(f"Latest: {latest_title}")
-    if latest_url:
-        msg_lines.append(f"{latest_url}")
-    if latest_important:
-        msg_lines.append("\nImpact-relevant highlights (bug-fix-only items skipped):")
-        for l in latest_important[:6]:
-            msg_lines.append(f"- {l.lstrip('-* ').strip()}")
-    msg_lines.append(f"\nVault note: {note_path}")
+        msg_lines.append(_plain_block(latest_title, latest_important, latest_url).rstrip())
+    else:
+        msg_lines.append(_plain_block("latest release", latest_important, latest_url).rstrip())
+    msg_lines.append(f"\n\nVault note: {note_path}")
 
     print("\n".join(msg_lines))
     return 0

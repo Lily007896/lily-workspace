@@ -12,6 +12,11 @@ Technical notes about running/operating OpenClaw on this machine.
 - Prefer two-stage pipelines: collect data → save files → generate report from files.
 - Avoid relying on `python`; use `python3` explicitly.
 
+## Manual OpenClaw updates from chat
+- Use skill `openclaw-self-update` for any "update OpenClaw / update yourself" request.
+- Do not run direct `openclaw update` inside chat. Send a brief offline warning, launch `scripts/openclaw-self-update-detached.sh`, then immediately end/yield. The helper runs under `systemd-run --user` and sends completion after restart.
+- Incident context: on 2026-05-22, continuing tool work after launching a detached updater killed the active Codex app-server connection when the gateway stopped, even though the update succeeded.
+
 ## Agent workspace GitHub backups
 - Daily cron: `backup-agent-workspaces-github` at 23:00 Europe/London.
 - Script: `~/.openclaw/workspace/scripts/backup-workspaces.sh`.

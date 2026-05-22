@@ -23,6 +23,7 @@ This file is the curated long-term memory. Keep it short and high-signal.
 - Agent creation checklist: when Allen asks to create a new agent, handle all three setup layers: (1) OpenClaw agent + workspace, (2) workspace backup, and (3) Obsidian location/settings.
 - Otis agent: agent id `tech`, identity `Otis 🛠️`, workspace `/home/allen6qi/.openclaw/workspace-otis`, Obsidian folder `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/Otis`.
 - Valuable AI answers: when Allen wants to save/revisit an answer, save the full polished note in Obsidian and keep only a short pointer/index in memory. Use Lily notes by default, e.g. `Lily/Learning/`.
+- OpenClaw release updates: the daily `openclaw-release-check` cron should explain changelog items in plain English with "Simple version", "What it means for you", "Worth knowing", and "My read", avoiding raw technical bullets unless used as supporting notes.
 
 ## Promoted From Short-Term Memory (2026-05-18)
 
