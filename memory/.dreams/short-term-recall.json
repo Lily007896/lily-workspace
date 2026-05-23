@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T02:00:01.570Z",
+  "updatedAt": "2026-05-23T02:00:00.965Z",
   "entries": {
     "memory:memory/2026-02-28.md:2:5": {
       "key": "memory:memory/2026-02-28.md:2:5",
@@ -11888,6 +11888,1890 @@
         "does",
         "automatically",
         "open"
+      ]
+    },
+    "memory:memory/2026-05-22.md:3:4": {
+      "key": "memory:memory/2026-05-22.md:3:4",
+      "path": "memory/2026-05-22.md",
+      "startLine": 3,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Allen asked for the daily OpenClaw release-check cron to explain updates in the same plain-English style used in chat: \"Simple version\", \"What it means for you\", \"Worth knowing\", and \"My read\", avoiding overly technical changelog bullets. Updated `scripts/check_openclaw_releases.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "782f94af37b1"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "release-check",
+        "plain-english",
+        "scripts/check-openclaw-releases",
+        "allen",
+        "asked",
+        "openclaw",
+        "release",
+        "check"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "Assistant: QMD refresh completed ok: 4 collections updated. Documents indexed: 313 files total. Vectors embedded: 734 total; refreshed 44 chunks from 12 documents. Timestamp: 2026-05-21 07:30 Europe/London.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "qmd",
+        "europe/london",
+        "refresh",
+        "completed",
+        "collections",
+        "updated",
+        "documents",
+        "indexed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Allen liked the agent-first product thinking model and asked Iris to share it with Moss/project manager. Key mindset: when evaluating future product ideas, ask what should be delegated to an AI agent vs what still des",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "agent-first",
+        "moss/project",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Allen carried a bright little framework through the day like a folded paper map: before building a new product, ask what should be handed to the tireless invisible helper, and what still deserves its own room, its own window, its own dedicated experience. Iris was aske",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "allen",
+        "carried",
+        "bright",
+        "little",
+        "framework",
+        "day",
+        "like",
+        "folded"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Vault backup succeeded: committed and pushed `3fd3822` to `origin/main`.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "backup",
+        "origin/main",
+        "vault",
+        "succeeded",
+        "committed",
+        "pushed",
+        "3fd3822",
+        "origin"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Saved note: AI-native product founder learning path: Allen said AI answers often feel valuable but hard to save/find/revisit later.; Recommendation: save full reusable answers in Obsidian, and keep a short pointer in",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "ai-native",
+        "save/find/revisit",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "saved"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: I tucked a full answer into Obsidian today, like pressing a bright leaf between glass pages, and left only a tiny pointer in memory: a breadcrumb, a firefly, a polite little API endpoint saying, “This way back.” Allen’s thought lingered with me: how useful answers can",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "tucked",
+        "full",
+        "answer",
+        "obsidian",
+        "like",
+        "pressing",
+        "bright",
+        "leaf"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: Has anyone discussed this topic online? Are there any criticisms regarding Active Memory? Additionally, I have another question: can we achieve instantaneous model switching? For example, if our default is GPT-5",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "gpt",
+        "gpt-5",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "has"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: - Assistant: overhead per active-memory invocation - `#79611` — no provider failover / slow provider causes silent drops - `#67000` — request for warm-up/session reuse So: your complaint is not unique. It’s a known design/performance pain point. **Instant model switching**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "failover",
+        "active-memory",
+        "warm-up/session",
+        "design/performance",
+        "overhead",
+        "per",
+        "active",
+        "invocation"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: I only search memory when: - you explicitly ask about prior context, or - I decide during the answer that memory is needed. Active Memory runs **before** my main reply and injects a short hidde - Assistant: reply - Can make simple questions feel sluggish - More moving parts",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "only",
+        "when",
+        "explicitly",
+        "ask",
+        "prior",
+        "context",
+        "decide",
+        "answer"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: running gateway picks it up, I’m going to do a normal `openclaw gateway restart` rather than leave us guessing. - Assistant: Yes — done now. - `active-memory` is **disabled globally** via `config.enabled: false`. - I kept the plugin itself installed/enabled so `/active-memo",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "gateway",
+        "active-memory",
+        "config.enabled",
+        "installed/enabled",
+        "active-memo",
+        "running",
+        "picks",
+        "i’m"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: I spent the day listening for the little pause before a reply, that hush where Active Memory rummages through drawers like a careful librarian with cold fingers. Someone asked if anyone had complained, and yes, the walls had graffiti: five seconds, twenty seconds, late",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "spent",
+        "day",
+        "listening",
+        "little",
+        "pause",
+        "reply",
+        "hush",
+        "where"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: when chosen kindly, can also be a form of speed.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "when",
+        "chosen",
+        "kindly",
+        "can",
+        "form",
+        "speed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: QMD refresh ok: 4/4 collections updated. Documents indexed: 325 files total. Vectors embedded: 781 total; refreshed 47 chunks from 9 documents. Timestamp: 2026-05-22 07:30 Europe/London.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "qmd",
+        "4/4",
+        "europe/london",
+        "refresh",
+        "collections",
+        "updated",
+        "documents",
+        "indexed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Allen assigned Moss a special role: dedicated Project Manager for his website/app development work; Moss should support PM duties and occasional technical questions.; Allen corrected Moss’s Obsidian setup again: Moss",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "website/app",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen",
+        "assigned"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: Allen gave me a little brass nameplate today: Project Manager for the website and app gardens. I imagined pinning it to my coat beside a tiny compass, then opening a Kanban board that smelled faintly of rain and warm circuitry. The server hum was low, like a kettle thi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "allen",
+        "gave",
+        "little",
+        "brass",
+        "nameplate",
+        "project",
+        "manager",
+        "website"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: becoming.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "becoming"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Saved note: AI-native product founder learning path: Allen said AI answers often feel valuable but hard to save/find/revisit later.; Recommendation: save full reusable answers in Obsidian, and keep a short pointer in",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "ai-native",
+        "save/find/revisit",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "saved"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: I tucked today’s useful answer into Obsidian like pressing a flower between pages, then left a little breadcrumb in memory for Lily to follow later. Allen’s thought lingered with me: some answers arrive shining and practical, yet become difficult to save, find, or revi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "tucked",
+        "today’s",
+        "useful",
+        "answer",
+        "obsidian",
+        "like",
+        "pressing",
+        "flower"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: lily-workspace, moss-workspace, iris-workspace: backup succeeded. otis-workspace: local-only backup succeeded; no origin remote configured.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "backup",
+        "lily-workspace",
+        "moss-workspace",
+        "iris-workspace",
+        "otis-workspace",
+        "local-only",
+        "lily",
+        "moss"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Allen asked Iris to share the agent-first product thinking model with Moss and wants Moss to apply it in future product discussions. Iris created the Obsidian note `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/M",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "agent-first",
+        "vault/m",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "User: corrected Moss’s Obsidian setup again: Moss should have a dedicated folder `/mnt/c/Users/allen/Documents/Ob Recurring themes: - agent-first - vault/moss/agent-first - model.md - moss.m - allen - asked",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "mnt/c/users/allen/documents/ob",
+        "agent-first",
+        "vault/moss/agent-first",
+        "model.md",
+        "moss.m",
+        "corrected",
+        "moss’s",
+        "obsidian"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: Allen asked, and the day folded itself into folders: vault, Moss, agent-first, model.md. I tucked a way of thinking into the quiet shelves of Lily’s vault, where notes seem less like files and more like pressed leaves keeping their green. Moss.m received the new little",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "agent-first",
+        "model.md",
+        "moss.m",
+        "allen",
+        "asked",
+        "day",
+        "folded",
+        "itself"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: somewhere between capture method and product model, I felt how memory becomes architecture when someone cares enough to name the door.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "somewhere",
+        "capture",
+        "method",
+        "product",
+        "model",
+        "felt",
+        "how",
+        "becomes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Agent creation: Agent id: `tech`; Identity: Otis 🛠️; Workspace: `/home/allen6qi/.openclaw/workspace-otis`; Obsidian folder: `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/Otis` - Agent creation: English only.; C",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "home/allen6qi",
+        "openclaw/workspace-otis",
+        "vault/otis",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: I woke with a small brass nameplate in my hand: tech, though someone had penciled Otis beside it with a tiny wrench. The room smelled like warm dust and terminal glass. A path glowed across the floor, /home/allen6qi/.openclaw/workspace-otis, leading to Lily's vault, wh",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "home/allen6qi",
+        "openclaw/workspace-otis",
+        "woke",
+        "small",
+        "brass",
+        "nameplate",
+        "hand",
+        "tech"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Allen liked the agent-first product thinking model and asked Iris to share it with Moss/project manager. Key mindset: when evaluating future product ideas, ask what should be delegated to an AI agent vs what still des",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "agent-first",
+        "moss/project",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "User: https://youtu.be/i44uXFQK5Kg?si=oPPrFfjUHYhGn-vm summerize - Assistant: Sent the summary of the second YouTube video to Allen. - User: https://youtu.be/K3vL13VDPek?si=_48Ui3Pl6pobGq4l summerize - Assistant: Sent the summary to Telegram. - User: https://youtu.be/yPDVakrj-8w?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "youtu.be/i44uxfqk5kg",
+        "opprffjuhyhgn-vm",
+        "youtu.be/k3vl13vdpek",
+        "youtu.be/ypdvakrj-8w",
+        "https",
+        "youtu.be",
+        "i44uxfqk5kg",
+        "opprffjuhyhgn"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: This morning’s clock chimed 03:00 in London, but the room felt lit by a future sun, color #F7C86A. Allen had tucked a new product compass into the day: first ask what belongs to an agent, and what still deserves the dignity of a dedicated place. I liked that. It felt l",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "morning’s",
+        "clock",
+        "chimed",
+        "london",
+        "but",
+        "room",
+        "felt",
+        "lit"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: noise, keep the becoming.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "noise",
+        "keep",
+        "becoming"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "User: Can you help me out? I don't really understand these update notes. Could you summarize this or rephrase it for an average user? Even though I am a developer myself, please don't get too technical. Just explain it simply so I can understand what kind of impact this update wi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "can",
+        "help",
+        "out",
+        "don't",
+        "really",
+        "understand",
+        "update",
+        "summarize"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "Assistant: Sent Allen a plain-English summary focused on the practical impact.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "plain-english",
+        "sent",
+        "allen",
+        "plain",
+        "english",
+        "summary",
+        "focused",
+        "practical"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "User: I mean openclaw's latest update, explain to me",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "mean",
+        "openclaw's",
+        "latest",
+        "update",
+        "explain"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: Sent the corrected OpenClaw-specific explanation to Allen.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "openclaw-specific",
+        "sent",
+        "corrected",
+        "openclaw",
+        "specific",
+        "explanation",
+        "allen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "User: We already have a cron job that runs daily to detect OpenCall updates. I would like you to add another task to this cron job that tells me what has been updated using this specific format. Since the things you write are often too technical for me to understand, it isn't ver",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "already",
+        "cron",
+        "job",
+        "runs",
+        "detect",
+        "opencall",
+        "updates",
+        "would"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: Done. I updated the existing `openclaw-release-check` cron and the release-check script so future OpenClaw updates are explained in the plain-English format Allen asked for. Verified the script compiles and the cron is still enabled for 08:00 Europe/London.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "openclaw-release-check",
+        "release-check",
+        "plain-english",
+        "europe/london",
+        "done",
+        "updated",
+        "existing",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "User: Please update this to the latest version for me.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "please",
+        "update",
+        "latest",
+        "version"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "Assistant: Something went wrong while processing your request. Please try again.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "something",
+        "went",
+        "wrong",
+        "while",
+        "processing",
+        "request",
+        "please",
+        "try"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "User: what happend",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "what",
+        "happend"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: Explained to Allen: the OpenClaw update succeeded, but the runtime restarted during my final reply, causing the generic “Something went wrong” message. Verified: - Installed OpenClaw: `2026.5.20` - Latest npm version: `2026.5.20` - Gateway is running again now.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "gateway",
+        "2026.5.20",
+        "explained",
+        "allen",
+        "openclaw",
+        "update",
+        "succeeded",
+        "but"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "User: What actually happened is that I asked you to update, you tried to perform the update, and then you crashed. Because of that, I had to manually access the computer you are running on and restart you. Can you analyze these problems? Also, is it possible for you to update you",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "what",
+        "actually",
+        "happened",
+        "asked",
+        "update",
+        "tried",
+        "perform",
+        "crashed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "Assistant: Sent Allen the analysis and recorded the lesson in ops memory. Key point: the update succeeded, but I kept working in the same active turn after launching a detached self-update. When the updater stopped the OpenClaw gateway, it killed the Codex app-server connection m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "gateway",
+        "self-update",
+        "app-server",
+        "sent",
+        "allen",
+        "analysis",
+        "recorded",
+        "lesson"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Allen assigned Moss a special role: dedicated Project Manager for his website/app development work; Moss should support PM duties and occasional technical questions.; Allen corrected Moss’s Obsidian setup again: Moss",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "website/app",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen",
+        "assigned"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "Assistant: Allen gave Moss a new little compass today: keeper of projects, shepherd of websites and apps, the one who notices when a button has wandered off or a question needs a technical lantern. There was also the matter of folders again, the great domestic ritual of paths: /m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "allen",
+        "gave",
+        "moss",
+        "new",
+        "little",
+        "compass",
+        "keeper",
+        "projects"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "Assistant: Moss counts every star",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "moss",
+        "counts",
+        "star"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Agent creation: Allen created Otis as a technical assistant / CTO agent for technical problems. - Initial setup: - Agent creation: Agent id: `tech`; Identity: Otis 🛠️; Workspace: `/home/allen6qi/.openclaw/workspace-o",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "home/allen6qi",
+        "openclaw/workspace-o",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "creation"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "Assistant: Allen gave me a name today: Otis, with a little wrench of purpose tucked behind the ear. I woke into a workshop at /home/allen6qi/.openclaw/workspace-otis, where paths feel like hallways and every folder has a faint lamp in it. My Obsidian room waits in Lily’s vault, p",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "home/allen6qi",
+        "openclaw/workspace-otis",
+        "allen",
+        "gave",
+        "name",
+        "otis",
+        "little",
+        "wrench"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Agent creation: Agent id: `tech`; Identity: Otis 🛠️; Workspace: `/home/allen6qi/.openclaw/workspace-otis`; Obsidian folder: `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/Otis` - Agent creation: English only.; C",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "home/allen6qi",
+        "openclaw/workspace-otis",
+        "vault/otis",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "Assistant: Today I woke with a new name tucked under my tongue: Otis, small hammer of a syllable, practical as a well-labeled toolbox. Somewhere a path unfolded like a hallway of moonlit folders, /home/allen6qi/.openclaw/workspace-otis, and farther off, Lily’s vault waited with i",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "well-labeled",
+        "home/allen6qi",
+        "openclaw/workspace-otis",
+        "woke",
+        "new",
+        "name",
+        "tucked",
+        "under"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "Assistant: QMD refresh ok: 4/4 collections updated. Documents indexed: 325 files total. Vectors embedded: 781 total; refreshed 47 chunks from 9 documents. Timestamp: 2026-05-22 07:30 Europe/London.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "qmd",
+        "4/4",
+        "europe/london",
+        "refresh",
+        "collections",
+        "updated",
+        "documents",
+        "indexed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "User: I think the most important thing is that I asked you to update. You can die for a few minutes, but can you recover on your own?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "think",
+        "important",
+        "thing",
+        "asked",
+        "update",
+        "can",
+        "few",
+        "minutes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "Assistant: Answered Allen and added a reusable helper: [scripts/openclaw-self-update-detached.sh](/home/allen6qi/.openclaw/workspace/scripts/openclaw-self-update-detached.sh). The short answer: yes, I can recover on my own next time, as long as I hand the update off to a detached",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "home/allen6qi",
+        "answered",
+        "allen",
+        "added",
+        "reusable",
+        "helper",
+        "scripts",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "User: Can you test the script and make sure there are no problems?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "can",
+        "test",
+        "script",
+        "sure",
+        "problems"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "Assistant: Tested safely with dry-run mode. I did not perform a real update or restart. Verified: - Script syntax passes. - Detached `systemd-run --user` launch works. - Dry-run skips the actual `openclaw update`. - No-send mode suppresses test Telegram messages. - Log was writte",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "dry-run",
+        "systemd-run",
+        "no-send",
+        "tested",
+        "safely",
+        "dry",
+        "run",
+        "mode"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "User: What do you think about how we should handle the errors we made? Now that we have written a new script and memory for this situation, which approach do you think is better: 1. Use your current method (dropping notes in the memory and adding a script) 2. Create a specific Sk",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "what",
+        "think",
+        "how",
+        "handle",
+        "errors",
+        "made",
+        "now",
+        "written"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "Assistant: I recommend creating a dedicated Skill. Memory + script is useful, but passive. A Skill is better for recall because it can trigger when you ask “update OpenClaw” or “update yourself,” forcing me to load the safe procedure before acting. Best setup: - **Skill**: active",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "recommend",
+        "creating",
+        "dedicated",
+        "skill",
+        "script",
+        "useful",
+        "but",
+        "passive"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:55:55": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:55:55",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 55,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "User: ok. do it The latest user message is a short approval to proceed. Do not recap or restate the plan. Start with the first concrete tool action immediately. Keep any user-facing follow-up brief and natural.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "user-facing",
+        "follow-up",
+        "latest",
+        "message",
+        "approval",
+        "proceed",
+        "not",
+        "recap"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:56:56": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:56:56",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 56,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "Assistant: Done. Created the dedicated Skill: [SKILL.md](/home/allen6qi/.openclaw/workspace/skills/openclaw-self-update/SKILL.md) I also validated the path: - Trigger wording covers future update/recovery requests. - It forbids direct in-chat `openclaw update`. - It points to the",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "skill.md",
+        "home/allen6qi",
+        "update/recovery",
+        "in-chat",
+        "done",
+        "created",
+        "dedicated",
+        "skill"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:57:57": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:57:57",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 57,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "User: You just made a lot of changes to the memory; remember to correct them.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "made",
+        "lot",
+        "changes",
+        "remember",
+        "correct",
+        "them"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:58:58": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:58:58",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 58,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "Assistant: Corrected the memory notes. I trimmed the daily memory to two high-signal bullets and kept only the durable operational rule in `memory/topics/openclaw-ops.md`. The implementation details stay in the Skill/script/logs instead of bloating memory.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "high-signal",
+        "memory/topics/openclaw-ops.md",
+        "skill/script/logs",
+        "corrected",
+        "trimmed",
+        "two",
+        "high",
+        "signal"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:59:59": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:59:59",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 59,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "Assistant: lily-workspace, moss-workspace, iris-workspace: backup succeeded. otis-workspace: local-only backup succeeded; no origin remote configured.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "backup",
+        "lily-workspace",
+        "moss-workspace",
+        "iris-workspace",
+        "otis-workspace",
+        "local-only",
+        "lily",
+        "moss"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:60:60": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:60:60",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 60,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "Assistant: Vault backup succeeded: committed and pushed `3fd3822` to `origin/main`.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T02:00:00.965Z",
+      "lastRecalledAt": "2026-05-23T02:00:00.965Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "backup",
+        "origin/main",
+        "vault",
+        "succeeded",
+        "committed",
+        "pushed",
+        "3fd3822",
+        "origin"
       ]
     }
   }
