@@ -29,3 +29,8 @@ This file is the curated long-term memory. Keep it short and high-signal.
 
 <!-- openclaw-memory-promotion:memory:memory/2026-05-13.md:2:2 -->
 - - Allen set the Obsidian convention for all agents: use the shared default vault `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault`, with per-agent folders `Lily/`, `Moss/`, and `Iris/`; agents should create/open Obsidian notes in their own folder by default unless Allen specifies another location. [score=0.805 recalls=0 avg=0.620 source=memory/2026-05-13.md:2-2]
+
+## Promoted From Short-Term Memory (2026-05-26)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-05-22.md:3:4 -->
+- - Allen asked for the daily OpenClaw release-check cron to explain updates in the same plain-English style used in chat: "Simple version", "What it means for you", "Worth knowing", and "My read", avoiding overly technical changelog bullets. Updated `scripts/check_openclaw_releases.py` and the `openclaw-release-check` cron payload accordingly. - OpenClaw self-update lesson: direct in-chat updates can kill the active agent turn when the gateway restarts. Use the new `openclaw-self-update` skill and `scripts/openclaw-self-update-detached.sh`; launch the detached updater, then immediately end/yield so recovery happens outside the chat process. Dry-run tested successfully on 2026.5.20. [score=0.857 recalls=0 avg=0.620 source=memory/2026-05-22.md:3-4]
