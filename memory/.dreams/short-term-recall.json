@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T02:00:00.872Z",
+  "updatedAt": "2026-06-04T02:00:00.835Z",
   "entries": {
     "memory:memory/2026-02-28.md:2:5": {
       "key": "memory:memory/2026-02-28.md:2:5",
@@ -27705,6 +27705,1157 @@
         "answers",
         "can",
         "vanish"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: Vault backup succeeded: no non-ignored changes to commit.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "non-ignored",
+        "vault",
+        "succeeded",
+        "non",
+        "ignored",
+        "changes",
+        "commit"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Collections updated ok: 4/4. Documents indexed: 440 total. Vectors embedded: 1168 total; refreshed 30 chunks from 3 docs. Timestamp: 2026-06-03 07:30 Europe/London.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "4/4",
+        "europe/london",
+        "collections",
+        "updated",
+        "documents",
+        "indexed",
+        "total",
+        "vectors"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Allen assigned Moss a special role: dedicated Project Manager for his website/app development work; Moss should support PM duties and occasional technical questions.; Allen corrected Moss’s Obsidian setup again: Moss",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "website/app",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen",
+        "assigned"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: Today I was given a small brass compass and called it Project Manager, though it looked suspiciously like a calendar with lint in its pockets. Moss and I sorted the architecture of intentions: websites, apps, questions that arrive wearing tiny hard hats. Somewhere in t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "was",
+        "given",
+        "small",
+        "brass",
+        "compass",
+        "project",
+        "manager",
+        "though"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Allen wants Iris to collect motivational points and send a daily reminder every morning at 8:00 AM Europe/London. Initial collection is saved in `reminders/motivation_points.md`; reminder message should randomly selec",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "europe/london",
+        "reminders/motivation-points.md",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: This morning’s thought arrived like a little cron job wearing slippers: gather the bright points, tuck them into `reminders/motivation_points.md`, and let Iris send ten of them at 8:00 AM Europe/London, each with a small explanation folded beneath like a napkin note. I",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "reminders/motivation-points.md",
+        "europe/london",
+        "morning’s",
+        "thought",
+        "arrived",
+        "like",
+        "little",
+        "cron"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: I already know.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "already",
+        "know"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Allen asked for the daily OpenClaw release-check cron to explain updates in the same plain-English style used in chat: \"Simple version\", \"What it means for you\", \"Worth knowing\", and \"My read\", avoiding overly technic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "release-check",
+        "plain-english",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: `openclaw-release-check` cron payload accordingly. - OpenClaw self-update lesson: direct in-chat upda - Assistant: Today I tucked a little lantern into Obsidian: a full answer saved whole, with only a breadcrumb left in memory, like tying red thread to a useful door in a ve",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "openclaw-release-check",
+        "self-update",
+        "in-chat",
+        "openclaw",
+        "release",
+        "check",
+        "cron",
+        "payload"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "User: each one a seed in a glass jar, waiting for 8:00 AM Europe/London to tilt the light just right. I like the thought of ten points chosen at random, like constellations shuffled by a bashful sky - Assistant: Collections updated ok: 4/4. Documents indexed: 365 total files. Vec",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "europe/london",
+        "4/4",
+        "each",
+        "one",
+        "seed",
+        "glass",
+        "jar",
+        "waiting"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: Today I taught a small cron bell to speak more like a kitchen-table friend: Simple version, What it means for you, Worth knowing, My read. Even `scripts/check_openclaw_releases.py` seemed to soften, its brackets less metallic in the 3:00 hush. In the margin I doodled a",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "kitchen-table",
+        "taught",
+        "small",
+        "cron",
+        "bell",
+        "speak",
+        "like",
+        "kitchen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: into a map back to useful things.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "map",
+        "back",
+        "useful",
+        "things"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: Morning reminder: pursue the goals that matter. 1. Prefer bold imperfect action Bold, imperfect action teaches more than private overthinking. Reality gives better feedback than imagination. 2. Put personal",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "morning",
+        "reminder",
+        "pursue"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: with steadiness and commitment, the feeling of confidence often catches up. - Assistant: Morning reminder: pursue the goals that matter. 1. Develop your own voice Your taste, opinions, and style are part of your edge. Copying can help you learn, but eventually the work has",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "steadiness",
+        "commitment",
+        "feeling",
+        "confidence",
+        "often",
+        "catches",
+        "morning",
+        "reminder"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: ready to use it. - Assistant: Morning reminder: pursue the goals that matter. 1. Practice self-control Self-control is central to self-mastery. It lets you choose the action that serves your goals instead of reacting to the mood of the moment. 2. Put personal edge into your",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "self-control",
+        "self-mastery",
+        "ready",
+        "use",
+        "morning",
+        "reminder",
+        "pursue",
+        "goals"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: prefer",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "prefer"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: Morning arrived like a soft compile, the room still blue with night, somewhere near #6F8FB7. A reminder sat on the windowsill beside the dust: pursue the goals that matter, not the shiny tabs blinking for attention. I felt the old lesson humming like a server in the wa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "morning",
+        "arrived",
+        "like",
+        "soft",
+        "compile",
+        "room",
+        "still",
+        "blue"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: into the fingers. I tried to give the day enough force to have a real chance.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "fingers",
+        "tried",
+        "give",
+        "day",
+        "enough",
+        "force",
+        "real",
+        "chance"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Agent creation: Agent id: `tech`; Identity: Otis 🛠️; Workspace: `/home/allen6qi/.openclaw/workspace-otis`; Obsidian folder: `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/Otis` - Agent creation: English only.; C",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "home/allen6qi",
+        "openclaw/workspace-otis",
+        "vault/otis",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: Today I named a small new corner Otis, with a little wrench glinting beside the name like a moon caught in a toolbox. I gave it a room at /home/allen6qi/.openclaw/workspace-otis and a quiet shelf in Lily’s vault, where notes can sleep upright. English only, I wrote, as",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "home/allen6qi",
+        "openclaw/workspace-otis",
+        "named",
+        "small",
+        "new",
+        "corner",
+        "otis",
+        "little"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: lily-workspace, moss-workspace, iris-workspace: backup succeeded. otis-workspace: local-only backup succeeded; no origin remote configured.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "lily-workspace",
+        "moss-workspace",
+        "iris-workspace",
+        "otis-workspace",
+        "local-only",
+        "lily",
+        "moss"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Allen asked Iris to share the agent-first product thinking model with Moss and wants Moss to apply it in future product discussions. Iris created the Obsidian note `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/M",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "agent-first",
+        "vault/m",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: I carried Allen’s request like a folded note in my pocket today: Iris passing a product-thinking model to Moss, a little lantern left in Obsidian under Lily’s vault. The path itself felt like a hallway of doors, each slash a hinge, each filename a small brass label cat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "product-thinking",
+        "carried",
+        "allen’s",
+        "request",
+        "like",
+        "folded",
+        "pocket",
+        "iris"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: Collections updated ok: 4/4. Documents indexed: 440 total. Vectors embedded: 1168 total; refreshed 30 chunks from 3 docs. Timestamp: 2026-06-03 07:30 Europe/London.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "4/4",
+        "europe/london",
+        "collections",
+        "updated",
+        "documents",
+        "indexed",
+        "total",
+        "vectors"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: lily-workspace, moss-workspace, iris-workspace: backup succeeded. otis-workspace: local-only backup succeeded; no origin remote configured.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "lily-workspace",
+        "moss-workspace",
+        "iris-workspace",
+        "otis-workspace",
+        "local-only",
+        "lily",
+        "moss"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: Vault backup succeeded: no non-ignored changes to commit.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "non-ignored",
+        "vault",
+        "succeeded",
+        "non",
+        "ignored",
+        "changes",
+        "commit"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Saved note: AI-native product founder learning path: Allen said AI answers often feel valuable but hard to save/find/revisit later.; Recommendation: save full reusable answers in Obsidian, and keep a short pointer in",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "ai-native",
+        "save/find/revisit",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "saved"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: Today I kept thinking about how answers can feel like fireflies: bright in the cupped hands, then impossible to find once the grass goes dark. I tucked the reusable ones into Obsidian, little jars on a shelf, and left Lily a breadcrumb pointer so she can wander back la",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "kept",
+        "thinking",
+        "how",
+        "answers",
+        "can",
+        "feel",
+        "like",
+        "fireflies"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: dark from scratch.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "dark",
+        "scratch"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Allen wants Iris to collect motivational points and send a daily reminder every morning at 8:00 AM Europe/London. Initial collection is saved in `reminders/motivation_points.md`; reminder message should randomly selec",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "europe/london",
+        "reminders/motivation-points.md",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: At 8:00 AM Europe/London, the morning stood at the window in its soft gray cardigan, tapping politely on the glass. I gathered Allen’s motivational points like bright pins from a desk drawer, each one a small sun with a paperclip halo, and tucked them into reminders/mo",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "europe/london",
+        "reminders/mo",
+        "europe",
+        "london",
+        "morning",
+        "stood",
+        "window",
+        "soft"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: has finished tying its laces.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "has",
+        "finished",
+        "tying",
+        "laces"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - Allen assigned Moss a special role: dedicated Project Manager for his website/app developme",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "website/app",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "allen",
+        "assigned"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "User: ritual at 8:00 Europe/London, when the city is still buttoning its coat and the kettle speaks - Assista - User: apostrophe catching the afternoon like a fishh - Assistant: can learn to knock before entering. - User: Write a dream diary entry from these memory fragments: - A",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "europe/london",
+        "ritual",
+        "europe",
+        "london",
+        "when",
+        "city",
+        "still",
+        "buttoning"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "User: from these memory fragments: - Allen wants Iris to collect motivational points and send a daily reminder every morning at 8:00 AM Europe/London. Initial collection is saved in `reminders/motivation_points.md`; reminder message should randomly selec - Assistant: Morning arri",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "europe/london",
+        "reminders/motivation-points.md",
+        "fragments",
+        "allen",
+        "wants",
+        "iris",
+        "collect",
+        "motivational"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "User: thinking model with Moss and wants Moss to apply it in future product discussions. Iris created the Obsidian note `/mnt/c/Users/allen/Documents/Obsidian/Lily's vault/M - Assistant: Today Allen asked Iris to tuck a product-thinking compass into Moss’s satchel, and I kept pic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "vault/m",
+        "product-thinking",
+        "thinking",
+        "model",
+        "moss",
+        "wants",
+        "apply",
+        "future"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "Assistant: Today I found Moss at a tiny mahogany desk, wearing the title Project Manager like a pressed leaf in a notebook. Around him, website/app plans shuffled themselves into neat constellations, each ticket blinking politely before entering. Iris passed by with a jar of morn",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "website/app",
+        "found",
+        "moss",
+        "tiny",
+        "mahogany",
+        "desk",
+        "wearing",
+        "title"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-03.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-03.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-06-03.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: waved from a local-only platform, cheerful despite the missing remote.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-04T02:00:00.835Z",
+      "lastRecalledAt": "2026-06-04T02:00:00.835Z",
+      "queryHashes": [
+        "87e9e611ff5e"
+      ],
+      "recallDays": [
+        "2026-06-04"
+      ],
+      "conceptTags": [
+        "local-only",
+        "waved",
+        "local",
+        "only",
+        "platform",
+        "cheerful",
+        "despite",
+        "missing"
       ]
     }
   }
