@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T02:00:00.874Z",
+  "updatedAt": "2026-06-19T08:24:31.563Z",
   "entries": {
     "memory:memory/2026-02-28.md:2:5": {
       "key": "memory:memory/2026-02-28.md:2:5",
@@ -35407,6 +35407,303 @@
         "engines",
         "waiting",
         "rails"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-19.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-19.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-19.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: lily, moss, iris backup succeeded. otis succeeded locally only: no origin remote configured.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-19T08:24:31.563Z",
+      "lastRecalledAt": "2026-06-19T08:24:31.563Z",
+      "queryHashes": [
+        "a88ede50a2db"
+      ],
+      "recallDays": [
+        "2026-06-19"
+      ],
+      "conceptTags": [
+        "backup",
+        "lily",
+        "moss",
+        "iris",
+        "succeeded",
+        "otis",
+        "locally",
+        "only"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-19.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-19.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-19.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Collections updated ok: 4/4. Documents indexed: 504 total; refresh added 6 new docs. Vectors embedded: 1,393 total; 33 chunks from 3 docs embedded. Timestamp: 2026-06-19 09:20 Europe/London.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-19T08:24:31.563Z",
+      "lastRecalledAt": "2026-06-19T08:24:31.563Z",
+      "queryHashes": [
+        "a88ede50a2db"
+      ],
+      "recallDays": [
+        "2026-06-19"
+      ],
+      "conceptTags": [
+        "4/4",
+        "europe/london",
+        "collections",
+        "updated",
+        "documents",
+        "indexed",
+        "total",
+        "refresh"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-19.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-19.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-19.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Backup succeeded: no unignored vault changes to commit; `.obsidian` and `.trash` ignored.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-19T08:24:31.563Z",
+      "lastRecalledAt": "2026-06-19T08:24:31.563Z",
+      "queryHashes": [
+        "a88ede50a2db"
+      ],
+      "recallDays": [
+        "2026-06-19"
+      ],
+      "conceptTags": [
+        "backup",
+        "succeeded",
+        "unignored",
+        "vault",
+        "changes",
+        "commit",
+        "obsidian",
+        "trash"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-19.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-19.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-19.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: Sent: “Hi Allen. I’m here.”",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-19T08:24:31.563Z",
+      "lastRecalledAt": "2026-06-19T08:24:31.563Z",
+      "queryHashes": [
+        "a88ede50a2db"
+      ],
+      "recallDays": [
+        "2026-06-19"
+      ],
+      "conceptTags": [
+        "sent",
+        "allen",
+        "i’m",
+        "here"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-19.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-19.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-19.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: Sent: “Hi Allen. I’m here.”",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-19T08:24:31.563Z",
+      "lastRecalledAt": "2026-06-19T08:24:31.563Z",
+      "queryHashes": [
+        "a88ede50a2db"
+      ],
+      "recallDays": [
+        "2026-06-19"
+      ],
+      "conceptTags": [
+        "sent",
+        "allen",
+        "i’m",
+        "here"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-19.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-19.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-19.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: Collections updated ok: 4/4. Documents indexed: 504 total; refresh added 6 new docs. Vectors embedded: 1,393 total; 33 chunks from 3 docs embedded. Timestamp: 2026-06-19 09:20 Europe/London.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-19T08:24:31.563Z",
+      "lastRecalledAt": "2026-06-19T08:24:31.563Z",
+      "queryHashes": [
+        "a88ede50a2db"
+      ],
+      "recallDays": [
+        "2026-06-19"
+      ],
+      "conceptTags": [
+        "4/4",
+        "europe/london",
+        "collections",
+        "updated",
+        "documents",
+        "indexed",
+        "total",
+        "refresh"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-19.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-19.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-06-19.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: lily, moss, iris backup succeeded. otis succeeded locally only: no origin remote configured.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-19T08:24:31.563Z",
+      "lastRecalledAt": "2026-06-19T08:24:31.563Z",
+      "queryHashes": [
+        "a88ede50a2db"
+      ],
+      "recallDays": [
+        "2026-06-19"
+      ],
+      "conceptTags": [
+        "backup",
+        "lily",
+        "moss",
+        "iris",
+        "succeeded",
+        "otis",
+        "locally",
+        "only"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-19.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-19.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-06-19.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: check openclaw update",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-19T08:24:31.563Z",
+      "lastRecalledAt": "2026-06-19T08:24:31.563Z",
+      "queryHashes": [
+        "a88ede50a2db"
+      ],
+      "recallDays": [
+        "2026-06-19"
+      ],
+      "conceptTags": [
+        "check",
+        "openclaw",
+        "update"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-19.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-19.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-06-19.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: Sent the OpenClaw update check to Telegram. Current installed is `2026.5.20`; latest stable is `2026.6.8`, so an update is available.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-19T08:24:31.563Z",
+      "lastRecalledAt": "2026-06-19T08:24:31.563Z",
+      "queryHashes": [
+        "a88ede50a2db"
+      ],
+      "recallDays": [
+        "2026-06-19"
+      ],
+      "conceptTags": [
+        "2026.5.20",
+        "2026.6.8",
+        "sent",
+        "openclaw",
+        "update",
+        "check",
+        "telegram",
+        "current"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-19.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-19.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-06-19.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: Backup succeeded: no unignored vault changes to commit; `.obsidian` and `.trash` ignored.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-19T08:24:31.563Z",
+      "lastRecalledAt": "2026-06-19T08:24:31.563Z",
+      "queryHashes": [
+        "a88ede50a2db"
+      ],
+      "recallDays": [
+        "2026-06-19"
+      ],
+      "conceptTags": [
+        "backup",
+        "succeeded",
+        "unignored",
+        "vault",
+        "changes",
+        "commit",
+        "obsidian",
+        "trash"
       ]
     }
   }
