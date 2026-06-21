@@ -43,3 +43,11 @@
 [main/sessions/main/b7cea043-8771-4444-a08e-6fdbc0da0c5a.jsonl#L141] User: so do you recommand fix
 [main/sessions/main/b7cea043-8771-4444-a08e-6fdbc0da0c5a.jsonl#L142] Assistant: Yes, I recommend the small fix: `openclaw memory status --fix --agent main` Reason: it is low risk, only prunes old short-term recall cache entries that runtime already ignores, and keeps the memory state cleaner. I would *not* jump straight to `openclaw memory in
 [main/sessions/main/b7cea043-8771-4444-a08e-6fdbc0da0c5a.jsonl#L147] Assistant: Sent my recommendation to Telegram.
+[main/sessions/main/b7cea043-8771-4444-a08e-6fdbc0da0c5a.jsonl.reset.2026-06-20T22-03-01.989Z#L148] User: ok do it
+[main/sessions/main/b7cea043-8771-4444-a08e-6fdbc0da0c5a.jsonl.reset.2026-06-20T22-03-01.989Z#L149] Assistant: Done. Result: - pruned `665` overflow short-term recall entries - main recall store is now `512` entries, matching runtime limit - QMD embeddings: ready - vector search: ready - dirty: no - gateway still running normally I did not ru
+[main/sessions/main/b7cea043-8771-4444-a08e-6fdbc0da0c5a.jsonl.reset.2026-06-20T22-03-01.989Z#L162] Assistant: Done and reported in Telegram.
+[main/sessions/main/b7cea043-8771-4444-a08e-6fdbc0da0c5a.jsonl.reset.2026-06-20T22-03-01.989Z#L163] User: what do you mean by dirtly
+[main/sessions/main/b7cea043-8771-4444-a08e-6fdbc0da0c5a.jsonl.reset.2026-06-20T22-03-01.989Z#L164] Assistant: I meant `dirty`, not `dirtly`. In this context, `dirty` means “the memory index is out of sync with the source files.” Example: - You add/edit memory files. - The QMD index has not indexed those changes yet. - Status would show `Dirt
+[main/sessions/main/b7cea043-8771-4444-a08e-6fdbc0da0c5a.jsonl.reset.2026-06-20T22-03-01.989Z#L167] Assistant: Clarified “dirty” in Telegram.
+[main/sessions/main/b7cea043-8771-4444-a08e-6fdbc0da0c5a.jsonl.reset.2026-06-20T22-03-01.989Z#L168] Assistant: Backups succeeded: lily, moss, iris. Otis succeeded local-only; no origin remote configured.
+[main/sessions/main/b7cea043-8771-4444-a08e-6fdbc0da0c5a.jsonl.reset.2026-06-20T22-03-01.989Z#L169] Assistant: Vault backup succeeded: committed `3170bf8` and pushed to `origin/main`.
