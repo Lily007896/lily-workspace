@@ -1,0 +1,1268 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.180 --> 00:00:04.090
+Supply chain attacks
+are one of the biggest threats you and
+
+00:00:04.160 --> 00:00:07.760
+me as developers, web developers,
+can face these
+
+00:00:07.840 --> 00:00:11.560
+days. They are becoming more frequent
+and more serious.
+
+00:00:11.610 --> 00:00:15.340
+And I talked about that in another video,
+which I released
+
+00:00:15.380 --> 00:00:18.240
+earlier this week on my other channel,
+link below.
+
+00:00:18.260 --> 00:00:22.000
+Because this week,
+when I'm recording this, there
+
+00:00:22.060 --> 00:00:25.740
+the Axios library. By the way,
+in this video here, I'm
+
+00:00:25.820 --> 00:00:29.540
+focusing on the JavaScript ecosystem,
+but supply chain
+
+00:00:29.580 --> 00:00:32.610
+attacks are not exclusive to the
+JavaScript ecosystem.
+
+00:00:32.980 --> 00:00:35.960
+They are just particularly popular.
+
+00:00:36.080 --> 00:00:39.420
+They are for various reasons,
+but that's not the focus here.
+
+00:00:39.460 --> 00:00:43.340
+Therefore, in this video here,
+I'll share concrete
+
+00:00:43.660 --> 00:00:47.540
+steps you can and probably should take,
+and I'm taking, I'm
+
+00:00:47.640 --> 00:00:51.560
+doing,
+to protect against supply chain attacks so
+
+00:00:51.580 --> 00:00:55.480
+the next time one happens,
+you can keep on sleeping
+
+00:00:55.580 --> 00:00:58.180
+happily because you're not in danger.
+
+00:00:58.840 --> 00:01:01.980
+By the way, if this is helpful,
+check out academind.com.
+
+00:01:02.440 --> 00:01:06.020
+There,
+I have courses on all kinds of AI
+
+00:01:06.080 --> 00:01:08.520
+related stuff, so
+that might be interesting to you.
+
+00:01:08.840 --> 00:01:12.700
+So,
+what can you do to protect against supply
+
+00:01:13.280 --> 00:01:16.980
+It's two main layers, so to
+
+00:01:17.040 --> 00:01:20.720
+say. The first layer is that you want to
+
+00:01:20.760 --> 00:01:24.540
+reduce the danger of being affected by
+such an
+
+00:01:24.580 --> 00:01:28.420
+attack. The second layer is
+that you want to
+
+00:01:28.440 --> 00:01:32.260
+reduce the blast radius if you
+are affected, and both
+
+00:01:32.380 --> 00:01:36.060
+are important because you can reduce the
+
+00:01:36.120 --> 00:01:39.140
+danger, but you can't reduce it to zero.
+
+00:01:39.480 --> 00:01:43.360
+There is no 100% guarantee that
+
+00:01:43.440 --> 00:01:47.240
+you will never be affected. So,
+you can reduce it, but not to zero.
+
+00:01:47.620 --> 00:01:51.240
+So, therefore, this second point,
+if you are affected, you wanna
+
+00:01:51.280 --> 00:01:54.220
+reduce the damage the attack can do.
+
+00:01:54.520 --> 00:01:58.360
+Now, each point he-
+consists of a couple of steps you can
+
+00:01:58.420 --> 00:02:01.920
+ta- take,
+a couple of things you should consider,
+
+00:02:02.100 --> 00:02:05.940
+reducing the danger.
+Maybe you already heard about
+
+00:02:05.980 --> 00:02:09.220
+that. You want to set a minimum
+
+00:02:09.340 --> 00:02:12.500
+release, uh, age for any
+
+00:02:12.600 --> 00:02:16.590
+packages you add to your project. Uh, what
+
+00:02:16.620 --> 00:02:20.040
+does this mean? It means if you are
+
+00:02:20.120 --> 00:02:23.900
+using,
+if you're working in a web dev project
+
+00:02:24.160 --> 00:02:28.120
+using npm for managing your packages,
+or bun or pnpm,
+
+00:02:28.940 --> 00:02:32.720
+then some of these tools allow you to add
+dedicated
+
+00:02:32.800 --> 00:02:36.660
+settings that help you stay secure, so to
+
+00:02:36.720 --> 00:02:40.600
+say. For example, if you are using bun,
+not necessarily the bun
+
+00:02:40.640 --> 00:02:44.380
+API, not necessarily in your code,
+but as a package manager, which you
+
+00:02:44.440 --> 00:02:48.299
+can do instead of npm, then bun has a
+
+00:02:48.380 --> 00:02:51.440
+minimum release age setting you can add
+
+00:02:52.000 --> 00:02:55.920
+in your bunfic.toml file, which
+is simply a
+
+00:02:55.960 --> 00:02:58.700
+configuration file you can add to your
+project.
+
+00:02:58.720 --> 00:03:02.440
+And if you add this setting here
+and you're using bun for
+
+00:03:02.500 --> 00:03:06.260
+managing your dependencies,
+that's important of course,
+
+00:03:06.300 --> 00:03:10.100
+to only ever install dependencies that
+are at least that
+
+00:03:10.180 --> 00:03:13.880
+old. Or dependency versions, I should say,
+that are at- at least
+
+00:03:14.040 --> 00:03:17.400
+that old. So, that is three days in-
+in seconds here.
+
+00:03:18.220 --> 00:03:22.060
+So, that of course,
+is a huge security step up because those
+
+00:03:22.080 --> 00:03:25.460
+supply chain attacks in the past have
+typically been
+
+00:03:25.500 --> 00:03:29.420
+detected and remedied within a few hours.
+
+00:03:29.800 --> 00:03:33.180
+So, if you make sure
+that you never install package versions
+
+00:03:33.280 --> 00:03:36.820
+are younger than, let's say, three days,
+you're already
+
+00:03:36.860 --> 00:03:40.780
+pretty, pretty secure.
+If you're using pnpm
+
+00:03:40.840 --> 00:03:44.800
+as a package manager instead of bun
+or npm, you have a similar
+
+00:03:44.920 --> 00:03:48.460
+setting you can make. And if you are using
+
+00:03:48.600 --> 00:03:51.640
+npm, good old npm,
+you can actually also add a
+
+00:03:51.780 --> 00:03:55.580
+.npmrc file in your project that
+
+00:03:55.660 --> 00:03:59.500
+configures how the npm package manager
+works, so to
+
+00:03:59.620 --> 00:04:03.600
+say. And in there, if your npm version,
+I think,
+
+00:04:03.720 --> 00:04:07.620
+is at least 11.11.1, you
+
+00:04:07.680 --> 00:04:11.380
+can also add a min-release-age
+
+00:04:12.520 --> 00:04:16.440
+setting and npm should honor that
+and not install
+
+00:04:16.519 --> 00:04:20.120
+packages that are younger than
+that date or package
+
+00:04:20.160 --> 00:04:23.920
+versions. Important,
+you really need to set this setting
+
+00:04:24.000 --> 00:04:27.740
+this is null. The same for bun. So,
+by default, no minimum
+
+00:04:27.820 --> 00:04:31.220
+age is assumed. A sensible default that is
+
+00:04:31.540 --> 00:04:34.920
+enforced by bun though is that by default,
+
+00:04:35.380 --> 00:04:38.960
+it does not execute lifecycle scripts
+
+00:04:39.120 --> 00:04:42.050
+of third-party packages. Now, what
+is that?
+
+00:04:42.100 --> 00:04:45.980
+Well, in your package.json file,
+you of course typically have
+
+00:04:46.200 --> 00:04:49.240
+scripts,
+and you could also have scripts like
+
+00:04:49.400 --> 00:04:53.380
+post-install scripts in there,
+which libraries could add to
+
+00:04:53.480 --> 00:04:57.110
+define some code
+that should execute whenever
+
+00:04:57.160 --> 00:05:01.080
+installed, and that
+is how many of those supply chain attacks
+
+00:05:01.090 --> 00:05:04.000
+They add malicious code as a post-install
+script.
+
+00:05:04.660 --> 00:05:07.550
+Bun, by default, blocks those scripts.
+
+00:05:07.620 --> 00:05:11.200
+So,
+if you're using bun for package
+
+00:05:11.260 --> 00:05:14.880
+another big security step up because those
+malicious
+
+00:05:14.900 --> 00:05:18.740
+scripts shouldn't get executed.
+I'm saying shouldn't
+
+00:05:18.780 --> 00:05:22.710
+because bun has a default list of trusted
+dependencies,
+
+00:05:22.860 --> 00:05:26.580
+which actually do have their scripts
+executed, and you could
+
+00:05:26.660 --> 00:05:30.460
+also manage your own list here.
+And therefore, one
+
+00:05:30.540 --> 00:05:34.180
+thing you might wanna do to override
+that trusted dependencies
+
+00:05:34.280 --> 00:05:37.860
+list bun has is in your package.json
+
+00:05:38.060 --> 00:05:41.570
+file, you can add that trustedDependencies
+
+00:05:42.200 --> 00:05:45.730
+setting, which will be ignored by npm,
+but which will be honored by
+
+00:05:46.200 --> 00:05:50.160
+bun.
+And if you set this to an empty array,
+
+00:05:50.380 --> 00:05:53.880
+bun maintains to ensure
+that no package has their
+
+00:05:53.900 --> 00:05:56.840
+post-install and other lifecycle scripts
+executed.
+
+00:05:57.040 --> 00:05:59.200
+So, that's another security measure.
+
+00:05:59.340 --> 00:06:02.740
+You wanna block those package scripts.
+
+00:06:03.280 --> 00:06:06.360
+For npm, you can also get there. In the
+
+00:06:06.440 --> 00:06:08.780
+.npmrc file, you can add a
+
+00:06:08.920 --> 00:06:12.840
+ignore-scripts setting
+and set this to true
+
+00:06:12.940 --> 00:06:16.880
+so that if you're using npm for package
+management, you also don't execute
+
+00:06:17.000 --> 00:06:20.720
+those, uh, lifecycle scripts. And then
+
+00:06:20.800 --> 00:06:24.680
+there is a last point,
+which I read about a lot, which
+
+00:06:24.880 --> 00:06:27.390
+I think is a bit overhyped,
+but still worth mentioning.
+
+00:06:28.260 --> 00:06:30.370
+You have that interesting
+
+00:06:30.440 --> 00:06:34.390
+package.lock.json file or bun.lock file or
+
+00:06:34.460 --> 00:06:38.260
+other lock files in your project,
+depending on which package manager
+
+00:06:38.340 --> 00:06:41.200
+you're using. I have a bun.lock file,
+for example.
+
+00:06:41.840 --> 00:06:45.740
+These lock files get created automatically
+normally when
+
+00:06:45.820 --> 00:06:49.620
+you install packages through npm,
+then you get a package.lock
+
+00:06:49.660 --> 00:06:52.700
+file, or through bun,
+then you would get a bun.lock file.
+
+00:06:52.940 --> 00:06:56.920
+Now, what these files do
+is they lock in concrete,
+
+00:06:57.240 --> 00:06:59.200
+highly-specific package versions.
+
+00:06:59.760 --> 00:07:02.460
+By default, in your package.json file,
+
+00:07:03.040 --> 00:07:06.372
+uh-You might have dependencies like
+
+00:07:07.112 --> 00:07:10.432
+this, which says, "I want at
+
+00:07:10.632 --> 00:07:13.652
+least that version of the
+
+00:07:14.172 --> 00:07:18.132
+dependency," and major updates will not be
+downloaded automatically, but
+
+00:07:18.172 --> 00:07:19.802
+patch updates, for example, would.
+
+00:07:20.212 --> 00:07:22.952
+So this does not mean
+that I want exactly version
+
+00:07:23.112 --> 00:07:27.052
+2.1.10 for this package, but
+
+00:07:27.072 --> 00:07:30.252
+I want at least that version. And
+that can be problematic.
+
+00:07:30.712 --> 00:07:34.472
+If version 11, for example,
+would be effective, then I would
+
+00:07:34.572 --> 00:07:38.492
+download it if I
+were to reinstall my dependencies, or,
+
+00:07:38.552 --> 00:07:42.032
+to push this to production and in the
+
+00:07:42.072 --> 00:07:45.832
+CI/CD process, I install my dependencies,
+that might
+
+00:07:45.872 --> 00:07:48.572
+install a different version than I
+was using locally.
+
+00:07:49.152 --> 00:07:51.052
+That is where the lock file comes in.
+
+00:07:51.152 --> 00:07:53.892
+It locks in specific versions,
+
+00:07:54.412 --> 00:07:58.072
+exactly the versions you installed
+locally, and therefore the lock file
+
+00:07:58.212 --> 00:08:02.002
+should be committed to version control,
+should be committed to GIT and
+
+00:08:02.112 --> 00:08:06.032
+GitHub, for example, so that
+when you're deploying this, or if
+
+00:08:06.092 --> 00:08:09.692
+you were to delete your note modules
+folder and you reinstall all
+
+00:08:09.712 --> 00:08:12.672
+dependencies, you download and install
+
+00:08:12.772 --> 00:08:16.432
+exactly the dependencies you were using
+
+00:08:16.532 --> 00:08:20.392
+locally. So exact,
+specific dependency versions are
+
+00:08:20.452 --> 00:08:24.332
+being locked in here. And that
+is also kind
+
+00:08:24.392 --> 00:08:28.252
+of a protection mechanism, of course,
+because if you have safe versions
+
+00:08:28.372 --> 00:08:32.032
+locally or before,
+and you now reinstall or
+
+00:08:32.112 --> 00:08:36.072
+install on another server based on the log
+file, you get those
+
+00:08:36.082 --> 00:08:37.462
+safe versions again.
+
+00:08:38.432 --> 00:08:42.232
+Even beyond supply chain attacks, the
+
+00:08:42.312 --> 00:08:46.012
+log file is useful, of course,
+because it ensures that
+
+00:08:46.072 --> 00:08:49.982
+app,
+you're really installing exactly the same
+
+00:08:50.012 --> 00:08:53.822
+if some patch release of some dependency
+you were using
+
+00:08:53.912 --> 00:08:57.822
+introduced a bug, for example,
+you would not have that in the deployed
+
+00:08:57.892 --> 00:09:00.272
+version. So it's good for predictability.
+
+00:09:01.092 --> 00:09:05.052
+So that is important.
+That reduces the danger of being affected
+
+00:09:05.092 --> 00:09:08.872
+you're not pulling in new versions early
+and you're
+
+00:09:08.912 --> 00:09:12.352
+blocking those scripts. And with that,
+you are already super,
+
+00:09:12.612 --> 00:09:16.472
+super safe. You could stop here
+and it would be way better than what you
+
+00:09:16.532 --> 00:09:20.202
+probably had before,
+but it's really important to me,
+
+00:09:20.332 --> 00:09:24.322
+100% safe. You have no guarantee that
+
+00:09:24.652 --> 00:09:28.212
+such attacks will be caught within a few
+hours.
+
+00:09:28.292 --> 00:09:31.932
+It could take a week,
+depending on how sophisticated an
+
+00:09:31.992 --> 00:09:35.632
+attack is,
+depending on how popular a package is.
+
+00:09:36.112 --> 00:09:39.052
+You have no guarantee
+that it will only be hours.
+
+00:09:39.132 --> 00:09:42.752
+So saying that you don't want to download
+packages that
+
+00:09:42.792 --> 00:09:46.212
+aren't at least three days old,
+package versions I mean,
+
+00:09:46.832 --> 00:09:50.712
+might not always be enough.
+Blocking scripts also
+
+00:09:50.792 --> 00:09:54.692
+is not necessarily always enough because
+that's just one popular
+
+00:09:54.772 --> 00:09:58.412
+way of launching such an attack, but,
+of course, a more sophisticated
+
+00:09:58.452 --> 00:10:02.152
+attack could inject code into the actual
+package code
+
+00:10:02.432 --> 00:10:05.152
+and that code could then execute on your
+system.
+
+00:10:05.301 --> 00:10:08.772
+If you're building a server side
+application, let's say, and you're
+
+00:10:08.892 --> 00:10:12.652
+downloading, let's say, Express.js,
+and Express.js
+
+00:10:12.752 --> 00:10:16.252
+or some dependency of Express.js had
+malicious code injected,
+
+00:10:16.801 --> 00:10:20.752
+that code might be executing on your
+machine as you're running the
+
+00:10:20.772 --> 00:10:22.312
+development server, for example.
+
+00:10:22.352 --> 00:10:26.301
+So that is great,
+but it's not a 100% protection.
+
+00:10:26.792 --> 00:10:30.722
+That is why we also want to reduce the
+blast radius, which in general is a
+
+00:10:30.752 --> 00:10:34.572
+good idea, by the way,
+because things can go wrong.
+
+00:10:35.072 --> 00:10:38.872
+So what do I mean by that? I, for example,
+mean that you
+
+00:10:38.932 --> 00:10:42.452
+want to encrypt and hide your
+
+00:10:42.612 --> 00:10:46.092
+secrets. Now, what are secrets?
+Secrets are
+
+00:10:46.412 --> 00:10:49.932
+stuff like my newsletter API key in the
+
+00:10:49.972 --> 00:10:52.672
+Academind.com website source code.
+
+00:10:53.152 --> 00:10:56.012
+Uh,
+this is required for making newsletter
+
+00:10:56.132 --> 00:10:59.832
+By the way,
+great idea to sign up there to be the
+
+00:10:59.972 --> 00:11:03.752
+sales, new courses, and stuff. And,
+of course, that is not
+
+00:11:03.812 --> 00:11:07.712
+something I want other people to get
+because they could use that to
+
+00:11:08.672 --> 00:11:11.932
+manipulate my newsletter contact list,
+for example.
+
+00:11:12.452 --> 00:11:16.192
+So that is a secret. That secret,
+that concrete
+
+00:11:16.292 --> 00:11:20.152
+key should not be stored in my code base
+and should also not be
+
+00:11:20.232 --> 00:11:23.792
+in my dot env file. Now,
+as web developers, we
+
+00:11:23.872 --> 00:11:27.552
+tend to put a lot of stuff in dot env,
+and I admit I
+
+00:11:27.732 --> 00:11:30.052
+also do this in my courses because it's
+convenient.
+
+00:11:30.572 --> 00:11:34.552
+But in theory, and not just in theory,
+really, to be safe, that
+
+00:11:34.572 --> 00:11:38.312
+dot env file should not contain anything
+you're not comfortable sharing.
+
+00:11:38.772 --> 00:11:42.632
+So I can freely share this file with you
+because there's nothing in there
+
+00:11:42.712 --> 00:11:46.232
+that would matter to you or
+that would be insecure to share, right?
+
+00:11:46.792 --> 00:11:50.732
+So that is what the s- the end goal should
+
+00:11:50.792 --> 00:11:54.592
+be. Naturally, the question then is, well,
+where do you then put these
+
+00:11:54.632 --> 00:11:56.522
+values that you need during development?
+
+00:11:56.662 --> 00:11:59.712
+And the answer is you wanna use a service
+like Doppler.
+
+00:11:59.802 --> 00:12:02.492
+And no, this video
+is not sponsored by them.
+
+00:12:02.932 --> 00:12:06.772
+There also are alternatives,
+like Inphysical, or you could build your
+
+00:12:06.812 --> 00:12:10.492
+own alternative, of course. These
+are services that allow you to
+
+00:12:10.632 --> 00:12:14.252
+manage your secrets in the cloud
+and pull them into your
+
+00:12:14.372 --> 00:12:18.072
+project,
+inject them into the environment as you
+
+00:12:18.112 --> 00:12:22.012
+development or production server so
+that they are, uh, fetched
+
+00:12:22.312 --> 00:12:26.192
+just in time, so to say. And you can,
+for example, use
+
+00:12:26.212 --> 00:12:27.432
+Doppler for free.
+
+00:12:28.332 --> 00:12:32.012
+You can start and use it for free
+if you have, like, a, a small
+
+00:12:32.032 --> 00:12:34.832
+scope just up to three users,
+up to 10 projects, I think.
+
+00:12:35.472 --> 00:12:39.192
+So that can then be a great way of
+protecting yourself.
+
+00:12:39.312 --> 00:12:42.732
+So I, for example,
+set up a project here in Doppler for my
+
+00:12:42.792 --> 00:12:46.392
+website. In there,
+you can have different environments,
+
+00:12:46.492 --> 00:12:50.452
+you can define various secrets,
+store the secret values there, and
+
+00:12:50.492 --> 00:12:54.292
+then you can pull them in by reusing the
+Doppler CLI, which you
+
+00:12:54.332 --> 00:12:58.172
+need to install.
+And then you can run Doppler Run
+
+00:12:58.272 --> 00:13:02.152
+development server, and
+that will inject those secrets just in
+
+00:13:02.252 --> 00:13:06.193
+time to make them available.So that
+is how you can make
+
+00:13:06.244 --> 00:13:10.004
+sure that they're not lying around on your
+system, in your project, or
+
+00:13:10.044 --> 00:13:13.984
+anywhere else, and therefore,
+if you would be affected by any attack,
+
+00:13:14.004 --> 00:13:17.944
+doesn't matter,
+but let's say a supply chain attack,
+
+00:13:18.004 --> 00:13:21.664
+just read your .env file
+and find your secret
+
+00:13:21.684 --> 00:13:24.684
+values because the values aren't in
+that file.
+
+00:13:25.154 --> 00:13:28.524
+And of course,
+it's not just secrets you might be using
+
+00:13:28.564 --> 00:13:32.084
+Those supply chain attacks scanned your
+entire machine.
+
+00:13:32.104 --> 00:13:36.044
+By the way, it also didn't matter
+if you were using Windows or Linux
+
+00:13:36.504 --> 00:13:40.264
+those attacks work with all operating
+systems and they were looking for all
+
+00:13:40.344 --> 00:13:43.244
+kinds of passwords
+or keys you might have on your system.
+
+00:13:43.624 --> 00:13:47.424
+So outside of your project,
+you don't just wanna hide or encrypt your
+
+00:13:47.904 --> 00:13:51.864
+secrets, you also wanna, of course,
+encrypt any SSH
+
+00:13:51.904 --> 00:13:53.924
+keys you have lying around on your system.
+
+00:13:54.144 --> 00:13:57.894
+Use tools or services like 1Password for
+managing your
+
+00:13:58.024 --> 00:14:00.484
+passwords and secrets on your system.
+
+00:14:00.514 --> 00:14:03.404
+And no,
+they are also not sponsoring this video.
+
+00:14:03.744 --> 00:14:07.494
+I'm just using them personally. So that,
+of course, are great ideas
+
+00:14:07.564 --> 00:14:11.364
+because if there is simply nothing
+valuable
+
+00:14:11.544 --> 00:14:15.004
+lying around on your system, there
+is nothing that
+
+00:14:15.224 --> 00:14:19.184
+could be stolen.
+Another step up here would be to
+
+00:14:19.304 --> 00:14:23.284
+use a dedicated dev environment
+
+00:14:24.004 --> 00:14:27.844
+or machine for development.
+So what do I mean by
+
+00:14:27.884 --> 00:14:31.744
+that?
+I mean that you may be using your one
+
+00:14:31.784 --> 00:14:35.584
+PC for everything.
+You do your banking business there,
+
+00:14:35.624 --> 00:14:39.354
+YouTube videos there,
+you do all the personal stuff there,
+
+00:14:39.364 --> 00:14:42.944
+develop there. And of course,
+there's nothing wrong with that, but
+
+00:14:43.104 --> 00:14:46.964
+have any way of doing your development
+work on a separate
+
+00:14:47.024 --> 00:14:50.544
+machine, a separate Mac mini or whatever,
+then of
+
+00:14:50.584 --> 00:14:54.324
+course, anything bad
+that happens there stays on that machine.
+
+00:14:54.424 --> 00:14:57.804
+So that might be worth it
+and you have a better separation.
+
+00:14:58.244 --> 00:15:02.144
+And, uh, for example,
+your tax documents
+
+00:15:02.164 --> 00:15:06.104
+machine wouldn't be, uh, accessible
+
+00:15:06.264 --> 00:15:09.724
+on your development machine.
+So having that separation might
+
+00:15:09.764 --> 00:15:13.704
+be, uh, worth a look.
+If you don't have a separate machine
+
+00:15:13.843 --> 00:15:17.104
+use it,
+you could look into using a virtual
+
+00:15:17.264 --> 00:15:21.204
+For example, Multipass
+is a free tool you can use to spin
+
+00:15:21.284 --> 00:15:24.834
+up virtual Ubuntu, uh, machines on macOS,
+
+00:15:25.104 --> 00:15:28.024
+on Windows, on Linux,
+and it's not the only tool.
+
+00:15:28.484 --> 00:15:32.224
+You can look into a broad variety of other
+virtual machine,
+
+00:15:32.704 --> 00:15:34.724
+uh, providers. You could also use Docker.
+
+00:15:35.104 --> 00:15:39.044
+It's not perfect isolation necessarily
+though, since it shares the host
+
+00:15:39.144 --> 00:15:42.044
+kernel.
+That's why a virtual machine might be
+
+00:15:42.064 --> 00:15:45.504
+But spinning up such a virtual machine
+might be a good idea too.
+
+00:15:45.684 --> 00:15:49.454
+For example, I got Multipass installed
+and I created, uh,
+
+00:15:49.744 --> 00:15:53.244
+a bunch of virtual machines there,
+actually one base machine, which I keep on
+
+00:15:53.284 --> 00:15:57.144
+cloning because Multipass has a clone
+command where you can use
+
+00:15:57.244 --> 00:16:01.204
+one base machine and clone to create a new
+machine based on it, to use it as a base
+
+00:16:01.264 --> 00:16:04.714
+image essentially. And
+if they're not running,
+
+00:16:05.034 --> 00:16:08.684
+So I only have my development machine
+running and I have one development virtual
+
+00:16:08.724 --> 00:16:11.224
+machine per project in my case here.
+
+00:16:11.244 --> 00:16:15.224
+And then that project,
+so this project you see here runs in that
+
+00:16:15.284 --> 00:16:17.844
+virtual machine. It runs in there.
+
+00:16:17.964 --> 00:16:21.744
+So if anything bad happens in there,
+it happens in that virtual machine And
+
+00:16:21.924 --> 00:16:25.594
+in that machine, there
+is nothing except for this
+
+00:16:25.644 --> 00:16:29.324
+project. Now, there
+are a couple of gotchas here
+
+00:16:29.384 --> 00:16:33.164
+related to using AI tools like Claude Code
+
+00:16:33.244 --> 00:16:37.074
+in there or Git, because
+if you want to be able to git push, for
+
+00:16:37.144 --> 00:16:41.114
+example,
+you need to be able to connect your, your
+
+00:16:41.144 --> 00:16:44.644
+Git account here. So I need to ha-
+to have my Git credentials
+
+00:16:44.824 --> 00:16:48.464
+somewhere in the virtual machine,
+and those could be stolen if they were
+
+00:16:48.564 --> 00:16:50.984
+stored there. The same for Claude Code.
+
+00:16:51.044 --> 00:16:54.484
+If I do install Claude Code in
+that machine or
+
+00:16:54.604 --> 00:16:58.564
+Codex or whatever,
+and I then log in in there, my
+
+00:16:58.764 --> 00:17:02.144
+session token must be stored in
+that virtual machine.
+
+00:17:02.264 --> 00:17:03.894
+Now,
+there are a couple of workarounds though.
+
+00:17:04.084 --> 00:17:07.704
+For example,
+I did register my virtual machine as a SSH
+
+00:17:07.764 --> 00:17:11.734
+host in my SSH config file on my system,
+
+00:17:12.024 --> 00:17:15.604
+and in there I set forward agent to yes.
+
+00:17:16.064 --> 00:17:19.943
+Now, what exactly does this do?
+This ensures
+
+00:17:20.004 --> 00:17:23.024
+that I can actually add
+
+00:17:23.844 --> 00:17:26.824
+certain credentials to my
+
+00:17:27.504 --> 00:17:31.044
+SSH agent, to my SSH tool, so to say here,
+and
+
+00:17:31.484 --> 00:17:34.784
+forwards them to the virtual machine.
+I don't store them in there.
+
+00:17:34.884 --> 00:17:38.564
+I don't copy them in there, but
+when I'm then connected to that virtual
+
+00:17:38.624 --> 00:17:42.504
+machine as I am here using VS Code remote
+
+00:17:42.684 --> 00:17:46.644
+feature where you can connect to a host
+via SSH, in there,
+
+00:17:47.204 --> 00:17:50.964
+I then have various, uh, keys
+or credentials
+
+00:17:51.004 --> 00:17:54.464
+available. Uh, this here, for example,
+is my
+
+00:17:54.684 --> 00:17:58.064
+GitHub SSH key,
+which I use for authenticating with GitHub
+
+00:17:58.604 --> 00:18:02.544
+That allows me to use git commands,
+and for example,
+
+00:18:02.724 --> 00:18:06.524
+push or pull from inside my terminal in VS
+
+00:18:06.564 --> 00:18:10.144
+Code in that remote machine which
+is connected via SSH using the
+
+00:18:10.164 --> 00:18:12.444
+credentials that are stored on my host
+machine.
+
+00:18:12.484 --> 00:18:16.404
+So the credentials
+are not copied in there, they
+
+00:18:16.924 --> 00:18:20.184
+So therefore,
+I don't expose them in there.
+
+00:18:20.264 --> 00:18:23.924
+Of course,
+if some process got access to my SSH
+
+00:18:23.984 --> 00:18:27.794
+session in there,
+it could still access those credentials,
+
+00:18:27.824 --> 00:18:30.224
+security layer. That is the point.
+
+00:18:30.264 --> 00:18:34.074
+By the way, if stuff like that
+is interesting to you
+
+00:18:34.104 --> 00:18:38.064
+that,
+about SSH and how I forward credentials
+
+00:18:38.084 --> 00:18:40.484
+know in the comments
+and I'll create a dedicated video on that.
+
+00:18:41.144 --> 00:18:45.024
+But that is one thing I'm doing. Now,
+when it comes to AI agents like Claude
+
+00:18:45.204 --> 00:18:48.864
+and by the way,
+I have an amazing Claude Code course,
+
+00:18:48.964 --> 00:18:52.804
+out,
+or you get my subscription to get access
+
+00:18:52.884 --> 00:18:56.444
+side note.
+If I wanna use Claude Code in there, I can
+
+00:18:56.484 --> 00:19:00.344
+install it and authenticate
+and live with the fact that my
+
+00:19:00.424 --> 00:19:04.104
+session token is stored in there,
+because if something bad would
+
+00:19:04.224 --> 00:19:07.264
+happen, I could always revoke
+
+00:19:07.544 --> 00:19:11.104
+my sessions from inside my
+
+00:19:11.164 --> 00:19:14.354
+Claude dashboard to, uh, kind of
+
+00:19:14.784 --> 00:19:17.644
+restrict the amount of damage
+that can be done.
+
+00:19:17.774 --> 00:19:21.704
+And since it's a subscription,
+an attacker can't do more than use up my
+
+00:19:21.784 --> 00:19:25.484
+overall subscription usage,
+but they can't actually hurt me
+
+00:19:25.564 --> 00:19:29.384
+beyond that So I'm fine with that.
+If I don't
+
+00:19:29.444 --> 00:19:33.204
+want that, I could also run Claude Code
+or whatever on my host
+
+00:19:33.264 --> 00:19:36.644
+machine and just tell it to
+
+00:19:36.684 --> 00:19:40.584
+connect to that virtual machine via SSH
+and run
+
+00:19:40.624 --> 00:19:43.224
+commands in there because it can do that.
+
+00:19:43.324 --> 00:19:47.304
+It can, of course,
+also run SSH commands to connect
+
+00:19:47.364 --> 00:19:50.424
+to some remote machine
+and run commands there.
+
+00:19:50.504 --> 00:19:53.444
+So that would be an alternative way of
+solving this problem.
+
+00:19:53.524 --> 00:19:57.404
+And therefore,
+using such a virtual machine
+
+00:19:57.424 --> 00:20:01.354
+serious security step-up. But
+if there's one main takeaway from this
+
+00:20:01.524 --> 00:20:05.484
+it's that you should at least take this
+first step because that's super easy.
+
+00:20:05.524 --> 00:20:09.184
+It's just a bunch of config files you need
+to edit, and that you should at
+
+00:20:09.344 --> 00:20:11.664
+least also hide and encrypt your secrets.
+
+00:20:11.924 --> 00:20:15.523
+If you do that,
+you're already so much more secure than
+
+00:20:16.204 --> 00:20:20.104
+And therefore,
+with those steps implemented,
+
+00:20:20.244 --> 00:20:23.874
+100% guarantee that things can't go wrong,
+but it's
+
+00:20:23.904 --> 00:20:26.484
+way,
+way more than you probably have right now.
+
+00:20:26.774 --> 00:20:30.604
+And the next time you see a video by me
+or someone else about a big
+
+00:20:30.784 --> 00:20:34.644
+supply chain attack,
+you can hopefully sleep easy and be
+
+00:20:34.684 --> 00:20:35.824
+relaxed about it
+
