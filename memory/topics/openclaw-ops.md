@@ -25,6 +25,10 @@ Technical notes about running/operating OpenClaw on this machine.
   - Lily → `Lily007896/lily-workspace` (`~/.openclaw/workspace`, QMD `lily-workspace`)
   - Moss → `Lily007896/moss-workspace` (`~/.openclaw/workspace-work`, QMD `moss-workspace`)
   - Iris → `Lily007896/iris-workspace` (`~/.openclaw/workspace-iris`, QMD `iris-workspace`)
+  - Otis → `Lily007896/otis-workspace` (`~/.openclaw/workspace-otis`, QMD `otis-workspace`)
+
+## Daily memory
+- 2026-07-01: Created private GitHub repo `Lily007896/otis-workspace`, set it as `origin` for `~/.openclaw/workspace-otis`, committed/pushed current Otis memory changes, and confirmed the existing `backup-agent-workspaces-github` script already includes Otis.
 
 ## Signal pipeline incident (2026-03-03)
 - Root cause: 06:00 collector attempted to use OpenClaw write tool to `/mnt/c/...` and failed.
