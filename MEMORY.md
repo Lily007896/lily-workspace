@@ -39,3 +39,8 @@ This file is the curated long-term memory. Keep it short and high-signal.
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-19.md:3:4 -->
 - Allen asked to update OpenClaw to latest and check the smooth-update skill. Used `openclaw-self-update`; detached update completed from `2026.5.20` to `2026.6.8`, `update_exit=0`, gateway recovered and is running. Verified `openclaw-self-update` skill is ready and helper `scripts/openclaw-self-update-detached.sh` is intact. Remaining doctor warnings: legacy/conflicting codex plugin install metadata, cron command-conversion issues, plaintext secret-bearing config fields, command owner not configured. - After the update, Allen asked about memory settings and approved the small recall cleanup.... [score=0.857 recalls=0 avg=0.620 source=memory/2026-06-19.md:3-4]
+
+## Promoted From Short-Term Memory (2026-07-05)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-01.md:1:1 -->
+- Allen asked to make Otis's workspace backup setup match Lily, Moss, and Iris. Created private GitHub repo `Lily007896/otis-workspace`, added it as `origin` for `/home/allen6qi/.openclaw/workspace-otis`, pushed existing history, committed/pushed current Otis memory changes, and updated Lily's ops memory to record the repo. [score=0.857 recalls=0 avg=0.620 source=memory/2026-07-01.md:1-1]
