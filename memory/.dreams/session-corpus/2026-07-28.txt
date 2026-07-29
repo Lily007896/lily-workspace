@@ -1,0 +1,6 @@
+[main/sessions/main/110a869e-3479-4734-a9e8-05f67f860b9d.jsonl#L5] Assistant: Backups succeeded: lily-workspace, moss-workspace, iris-workspace, otis-workspace. Otis is not local-only; it pushed to GitHub.
+[main/sessions/main/5496c72c-c942-448c-a02b-84ebbccfb99b.jsonl#L7] Assistant: QMD refresh OK: 4/4 collections updated. Documents indexed: 812 files. Vectors embedded: 3440 total; refreshed 2 chunks from 1 document. Timestamp: 2026-07-28 07:30 Europe/London.
+[main/sessions/main/599f3494-4d52-4486-bc05-c457ddd0638c.jsonl#L79] Assistant: QMD refresh OK: 4/4 collections updated. Documents indexed: 812 files. Vectors embedded: 3440 total; refreshed 2 chunks from 1 document. Timestamp: 2026-07-28 07:30 Europe/London.
+[main/sessions/main/599f3494-4d52-4486-bc05-c457ddd0638c.jsonl#L80] Assistant: Backups succeeded: lily-workspace, moss-workspace, iris-workspace, otis-workspace. Otis is not local-only; it pushed to GitHub.
+[main/sessions/main/599f3494-4d52-4486-bc05-c457ddd0638c.jsonl#L81] Assistant: Vault backup success: no changes to commit; main is synced with origin/main.
+[main/sessions/main/67daf98c-e76d-40d8-b246-ba9d4d437784.jsonl#L11] Assistant: Vault backup success: no changes to commit; main is synced with origin/main.
