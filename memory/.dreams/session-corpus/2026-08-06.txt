@@ -1,0 +1,6 @@
+[main/sessions/main/1a07e483-313a-4f2c-bc8e-d5bd87ab2fcf.jsonl#L5] Assistant: Backups succeeded: lily-workspace, moss-workspace, iris-workspace, otis-workspace. Otis is not local-only.
+[main/sessions/main/599f3494-4d52-4486-bc05-c457ddd0638c.jsonl#L106] Assistant: QMD refresh OK: 4/4 collections updated. Documents indexed: 894 files. Vectors embedded: 3460. Timestamp: 2026-08-06 07:30 Europe/London.
+[main/sessions/main/599f3494-4d52-4486-bc05-c457ddd0638c.jsonl#L107] Assistant: Backups succeeded: lily-workspace, moss-workspace, iris-workspace, otis-workspace. Otis is not local-only.
+[main/sessions/main/599f3494-4d52-4486-bc05-c457ddd0638c.jsonl#L108] Assistant: Vault backup succeeded: no staged changes after excluding `.obsidian/` and `.trash/`.
+[main/sessions/main/c4ad6757-ab75-4db3-82dc-a605cb97c1f7.jsonl#L11] Assistant: Vault backup succeeded: no staged changes after excluding `.obsidian/` and `.trash/`.
+[main/sessions/main/f7924726-82d4-46f4-b472-5e8e651dd561.jsonl#L7] Assistant: QMD refresh OK: 4/4 collections updated. Documents indexed: 894 files. Vectors embedded: 3460. Timestamp: 2026-08-06 07:30 Europe/London.
